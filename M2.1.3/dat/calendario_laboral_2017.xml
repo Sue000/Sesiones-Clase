@@ -1,0 +1,3301 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<calendario_laboral xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<fecha_calendario>
+		<fecha>06/01/2017</fecha>
+		<descripcion_es>Epifanía del Señor </descripcion_es>
+		<descripcion_eu>Jaunaren Agerkundea</descripcion_eu>
+		<lugar_es>CAV</lugar_es>
+		<lugar_eu>EAE</lugar_eu>
+		<territorio>Todos</territorio>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>13/04/2017</fecha>
+		<descripcion_es>Jueves Santo</descripcion_es>
+		<descripcion_eu>Ostegun Santua</descripcion_eu>
+		<lugar_es>CAV</lugar_es>
+		<lugar_eu>EAE</lugar_eu>
+		<territorio>Todos</territorio>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>14/04/2017</fecha>
+		<descripcion_es>Viernes Santo</descripcion_es>
+		<descripcion_eu>Ostiral Santua</descripcion_eu>
+		<lugar_es>CAV</lugar_es>
+		<lugar_eu>EAE</lugar_eu>
+		<territorio>Todos</territorio>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>17/04/2017</fecha>
+		<descripcion_es>Lunes de Pascua de Resurrección</descripcion_es>
+		<descripcion_eu>Pazko Astelehena</descripcion_eu>
+		<lugar_es>CAV</lugar_es>
+		<lugar_eu>EAE</lugar_eu>
+		<territorio>Todos</territorio>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>01/05/2017</fecha>
+		<descripcion_es>Fiesta del trabajo</descripcion_es>
+		<descripcion_eu>Langileen eguna</descripcion_eu>
+		<lugar_es>CAV</lugar_es>
+		<lugar_eu>EAE</lugar_eu>
+		<territorio>Todos</territorio>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>25/07/2017</fecha>
+		<descripcion_es>Santiago Apóstol</descripcion_es>
+		<descripcion_eu>Santiago apostolua</descripcion_eu>
+		<lugar_es>CAV</lugar_es>
+		<lugar_eu>EAE</lugar_eu>
+		<territorio>Todos</territorio>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>15/08/2017</fecha>
+		<descripcion_es>Asunción de la Virgen</descripcion_es>
+		<descripcion_eu>Ama Birjinaren Jasokundea</descripcion_eu>
+		<lugar_es>CAV</lugar_es>
+		<lugar_eu>EAE</lugar_eu>
+		<territorio>Todos</territorio>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>12/10/2017</fecha>
+		<descripcion_es>Fiesta Nacional</descripcion_es>
+		<descripcion_eu>Festa Nazionala</descripcion_eu>
+		<lugar_es>CAV</lugar_es>
+		<lugar_eu>EAE</lugar_eu>
+		<territorio>Todos</territorio>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>01/11/2017</fecha>
+		<descripcion_es>Todos los Santos</descripcion_es>
+		<descripcion_eu>Santu guztien eguna</descripcion_eu>
+		<lugar_es>CAV</lugar_es>
+		<lugar_eu>EAE</lugar_eu>
+		<territorio>Todos</territorio>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>06/12/2017</fecha>
+		<descripcion_es>La Constitución</descripcion_es>
+		<descripcion_eu>Konstituzioaren eguna</descripcion_eu>
+		<lugar_es>CAV</lugar_es>
+		<lugar_eu>EAE</lugar_eu>
+		<territorio>Todos</territorio>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>08/12/2017</fecha>
+		<descripcion_es>Inmaculada Concepción</descripcion_es>
+		<descripcion_eu>Sorkundez Garbiaren eguna</descripcion_eu>
+		<lugar_es>CAV</lugar_es>
+		<lugar_eu>EAE</lugar_eu>
+		<territorio>Todos</territorio>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>25/12/2017</fecha>
+		<descripcion_es>Natividad del Señor</descripcion_es>
+		<descripcion_eu>Eguberri eguna</descripcion_eu>
+		<lugar_es>CAV</lugar_es>
+		<lugar_eu>EAE</lugar_eu>
+		<territorio>Todos</territorio>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>31/07/2017</fecha>
+		<descripcion_es>San Ignacio de Loiola</descripcion_es>
+		<descripcion_eu>Loiolako San Ignazio</descripcion_eu>
+		<lugar_es>Bizkaia</lugar_es>
+		<lugar_eu>Bizkaia</lugar_eu>
+		<territorio>Bizkaia</territorio>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>31/07/2017</fecha>
+		<descripcion_es>San Ignacio de Loiola</descripcion_es>
+		<descripcion_eu>Loiolako San Ignazio</descripcion_eu>
+		<lugar_es>Gipuzkoa</lugar_es>
+		<lugar_eu>Gipuzkoa</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>28/04/2017</fecha>
+		<descripcion_es>San Prudencio</descripcion_es>
+		<descripcion_eu>San Prudentzio</descripcion_eu>
+		<lugar_es>Álava - Araba</lugar_es>
+		<lugar_eu>Álava - Araba</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>15/05/2017</fecha>
+		<descripcion_es>San Isidro</descripcion_es>
+		<descripcion_eu>San Isidro</descripcion_eu>
+		<lugar_es>Abadiño</lugar_es>
+		<lugar_eu>Abadiño</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>1</codigo_eustat>
+		<latitud>43.15</latitud>
+		<longitud>-2.610278</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>13/06/2017</fecha>
+		<descripcion_es>San Antonio</descripcion_es>
+		<descripcion_eu>San Antonio</descripcion_eu>
+		<lugar_es>Abanto y Ciérvana - Abanto Zierbena </lugar_es>
+		<lugar_eu>Abanto y Ciérvana-Abanto Zierbena</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>2</codigo_eustat>
+		<latitud>43.316389</latitud>
+		<longitud>-3.083333</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>25/05/2017</fecha>
+		<descripcion_es>La Ascensión</descripcion_es>
+		<descripcion_eu>Asentzio Eguna</descripcion_eu>
+		<lugar_es>Ajangiz</lugar_es>
+		<lugar_eu>Ajangiz</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>911</codigo_eustat>
+		<latitud>43.301</latitud>
+		<longitud>-2.671</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>24/08/2017</fecha>
+		<descripcion_es>San Bartolomé</descripcion_es>
+		<descripcion_eu>San Bartolomé</descripcion_eu>
+		<lugar_es>Alonsotegi</lugar_es>
+		<lugar_eu>Alonsotegi</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>912</codigo_eustat>
+		<latitud>43.245186</latitud>
+		<longitud>-2.988701</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>17/07/2017</fecha>
+		<descripcion_es>Virgen del Carmen</descripcion_es>
+		<descripcion_eu>Karmengo Andra Mari</descripcion_eu>
+		<lugar_es>Amorebieta-Etxano</lugar_es>
+		<lugar_eu>Amorebieta-Etxano</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>3</codigo_eustat>
+		<latitud>43.226104</latitud>
+		<longitud>-2.712628</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>04/07/2017</fecha>
+		<descripcion_es>San Martín</descripcion_es>
+		<descripcion_eu>Martin Deuna</descripcion_eu>
+		<lugar_es>Amoroto</lugar_es>
+		<lugar_eu>Amoroto</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>4</codigo_eustat>
+		<latitud>43.3285</latitud>
+		<longitud>-2.5125</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>18/07/2017</fecha>
+		<descripcion_es>Santa Marina</descripcion_es>
+		<descripcion_eu>Santa Mariñe</descripcion_eu>
+		<lugar_es>Arakaldo</lugar_es>
+		<lugar_eu>Arakaldo</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>5</codigo_eustat>
+		<latitud>43.14955</latitud>
+		<longitud>-2.925086</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>29/06/2017</fecha>
+		<descripcion_es>San Pedro</descripcion_es>
+		<descripcion_eu>San Pedro</descripcion_eu>
+		<lugar_es>Arantzazu</lugar_es>
+		<lugar_eu>Arantzazu</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>6</codigo_eustat>
+		<latitud>43.152904</latitud>
+		<longitud>-2.79043</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>24/08/2017</fecha>
+		<descripcion_es>San Bartolomé</descripcion_es>
+		<descripcion_eu>Jaun Done Bartolome</descripcion_eu>
+		<lugar_es>Areatza</lugar_es>
+		<lugar_eu>Areatza</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>93</codigo_eustat>
+		<latitud>43.121079</latitud>
+		<longitud>-2.767771</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>29/06/2017</fecha>
+		<descripcion_es>San Pedro</descripcion_es>
+		<descripcion_eu>San Pedro</descripcion_eu>
+		<lugar_es>Arrankudiaga</lugar_es>
+		<lugar_eu>Arrankudiaga</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>9</codigo_eustat>
+		<latitud>43.173503</latitud>
+		<longitud>-2.917886</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>21/12/2017</fecha>
+		<descripcion_es>Santu Tomas</descripcion_es>
+		<descripcion_eu>Santo Tomás </descripcion_eu>
+		<lugar_es>Arratzu</lugar_es>
+		<lugar_eu>Arratzu</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>914</codigo_eustat>
+		<latitud>43.311667</latitud>
+		<longitud>-2.638611</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>08/09/2017</fecha>
+		<descripcion_es>Andra Mari</descripcion_es>
+		<descripcion_eu>Andra Mari</descripcion_eu>
+		<lugar_es>Arrieta</lugar_es>
+		<lugar_eu>Arrieta</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>10</codigo_eustat>
+		<latitud>43.340362</latitud>
+		<longitud>-2.769799</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>22/07/2017</fecha>
+		<descripcion_es>La Magdalena</descripcion_es>
+		<descripcion_eu>Madalena</descripcion_eu>
+		<lugar_es>Arrigorriaga</lugar_es>
+		<lugar_eu>Arrigorriaga</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>11</codigo_eustat>
+		<latitud>43.20752</latitud>
+		<longitud>-2.887839</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>08/09/2017</fecha>
+		<descripcion_es>Andra Mari</descripcion_es>
+		<descripcion_eu>Andra Mari</descripcion_eu>
+		<lugar_es>Artea</lugar_es>
+		<lugar_eu>Artea</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>23</codigo_eustat>
+		<latitud>43.133718</latitud>
+		<longitud>-2.784141</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>08/09/2017</fecha>
+		<descripcion_es>Ntra. Sra. De Traslaviña</descripcion_es>
+		<descripcion_eu>Ntra. Sra. De Traslaviña</descripcion_eu>
+		<lugar_es>Artzentales</lugar_es>
+		<lugar_eu>Artzentales</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>8</codigo_eustat>
+		<latitud>43.240556</latitud>
+		<longitud>-3.241389</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>29/06/2017</fecha>
+		<descripcion_es>San Pedro</descripcion_es>
+		<descripcion_eu>San Pedro</descripcion_eu>
+		<lugar_es>Atxondo</lugar_es>
+		<lugar_eu>Atxondo</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>91</codigo_eustat>
+		<latitud>43.130342</latitud>
+		<longitud>-2.585079</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>23/06/2017</fecha>
+		<descripcion_es>San Juan</descripcion_es>
+		<descripcion_eu>San Juan</descripcion_eu>
+		<lugar_es>Aulesti</lugar_es>
+		<lugar_eu>Aulesti</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>70</codigo_eustat>
+		<latitud>43.296084</latitud>
+		<longitud>-2.563355</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>29/09/2017</fecha>
+		<descripcion_es>San Miguel</descripcion_es>
+		<descripcion_eu>Mikel Deuna</descripcion_eu>
+		<lugar_es>Bakio</lugar_es>
+		<lugar_eu>Bakio</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>12</codigo_eustat>
+		<latitud>43.427778</latitud>
+		<longitud>-2.811389</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>23/10/2017</fecha>
+		<descripcion_es>San Severino</descripcion_es>
+		<descripcion_eu>Seberino deuna</descripcion_eu>
+		<lugar_es>Balmaseda</lugar_es>
+		<lugar_eu>Balmaseda</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>90</codigo_eustat>
+		<latitud>43.192866</latitud>
+		<longitud>-3.196942</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>17/07/2017</fecha>
+		<descripcion_es>San Alejo</descripcion_es>
+		<descripcion_eu>San Alejo</descripcion_eu>
+		<lugar_es>Barakaldo</lugar_es>
+		<lugar_eu>Barakaldo</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>13</codigo_eustat>
+		<latitud>43.297222</latitud>
+		<longitud>-2.991667</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>03/02/2017</fecha>
+		<descripcion_es>San Blas</descripcion_es>
+		<descripcion_eu>San Blas</descripcion_eu>
+		<lugar_es>Barrika</lugar_es>
+		<lugar_eu>Barrika</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>14</codigo_eustat>
+		<latitud>43.406384</latitud>
+		<longitud>-2.962425</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>13/10/2017</fecha>
+		<descripcion_es>San Fausto</descripcion_es>
+		<descripcion_eu>San Fausto</descripcion_eu>
+		<lugar_es>Basauri</lugar_es>
+		<lugar_eu>Basauri</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>15</codigo_eustat>
+		<latitud>43.233333</latitud>
+		<longitud>-2.883333</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>24/06/2017</fecha>
+		<descripcion_es>San Juan</descripcion_es>
+		<descripcion_eu>San Juan</descripcion_eu>
+		<lugar_es>Bedia</lugar_es>
+		<lugar_eu>Bedia</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>92</codigo_eustat>
+		<latitud>43.209374</latitud>
+		<longitud>-2.804965</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>04/08/2017</fecha>
+		<descripcion_es>Santo Domingo de Guzmán</descripcion_es>
+		<descripcion_eu>Guzmanezko Santu Domingo</descripcion_eu>
+		<lugar_es>Berango</lugar_es>
+		<lugar_eu>Berango</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>16</codigo_eustat>
+		<latitud>43.365899</latitud>
+		<longitud>-2.996356</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>08/09/2017</fecha>
+		<descripcion_es>Almikako Andra Mari</descripcion_es>
+		<descripcion_eu>Almikako Andra Mari</descripcion_eu>
+		<lugar_es>Bermeo</lugar_es>
+		<lugar_eu>Bermeo</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>17</codigo_eustat>
+		<latitud>43.420422</latitud>
+		<longitud>-2.722158</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>09/05/2017</fecha>
+		<descripcion_es>San Gregorio</descripcion_es>
+		<descripcion_eu>San Gregorio</descripcion_eu>
+		<lugar_es>Berriatua</lugar_es>
+		<lugar_eu>Berriatua</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>18</codigo_eustat>
+		<latitud>43.316667</latitud>
+		<longitud>-2.466667</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>29/06/2017</fecha>
+		<descripcion_es>San Pedro</descripcion_es>
+		<descripcion_eu>San Pedro</descripcion_eu>
+		<lugar_es>Berriz</lugar_es>
+		<lugar_eu>Berriz</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>19</codigo_eustat>
+		<latitud>43.193923</latitud>
+		<longitud>-2.589165</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>25/08/2017</fecha>
+		<descripcion_es>Viernes de la Semana Grande</descripcion_es>
+		<descripcion_eu>Aste Nagusiko Ostirala</descripcion_eu>
+		<lugar_es>Bilbao</lugar_es>
+		<lugar_eu>Bilbao</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>20</codigo_eustat>
+		<latitud>43.256963</latitud>
+		<longitud>-2.923441</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>10/07/2017</fecha>
+		<descripcion_es>San Cristóbal</descripcion_es>
+		<descripcion_eu>San Kristobal</descripcion_eu>
+		<lugar_es>Busturia</lugar_es>
+		<lugar_eu>Busturia</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>21</codigo_eustat>
+		<latitud>43.383</latitud>
+		<longitud>-2.697</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>15/05/2017</fecha>
+		<descripcion_es>San Isidro Labrador</descripcion_es>
+		<descripcion_eu>Isidor Nekazari Deuna </descripcion_eu>
+		<lugar_es>Derio</lugar_es>
+		<lugar_eu>Derio</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>901</codigo_eustat>
+		<latitud>43.302</latitud>
+		<longitud>-2.881833</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>29/06/2017</fecha>
+		<descripcion_es>San Pedro</descripcion_es>
+		<descripcion_eu>San Pedro</descripcion_eu>
+		<lugar_es>Dima</lugar_es>
+		<lugar_eu>Dima</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>26</codigo_eustat>
+		<latitud>43.143389</latitud>
+		<longitud>-2.751464</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>13/10/2017</fecha>
+		<descripcion_es>San Fausto</descripcion_es>
+		<descripcion_eu>San Fausto</descripcion_eu>
+		<lugar_es>Durango</lugar_es>
+		<lugar_eu>Durango</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>27</codigo_eustat>
+		<latitud>43.169068</latitud>
+		<longitud>-2.632655</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>24/08/2017</fecha>
+		<descripcion_es>San Bartolomé</descripcion_es>
+		<descripcion_eu>San Bartolomé</descripcion_eu>
+		<lugar_es>Ea</lugar_es>
+		<lugar_eu>Ea</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>28</codigo_eustat>
+		<latitud>43.380135</latitud>
+		<longitud>-2.585593</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>29/06/2017</fecha>
+		<descripcion_es>San Pedro</descripcion_es>
+		<descripcion_eu>San Pedro</descripcion_eu>
+		<lugar_es>Elantxobe</lugar_es>
+		<lugar_eu>Elantxobe</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>31</codigo_eustat>
+		<latitud>43.403422</latitud>
+		<longitud>-2.6398</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>04/07/2017</fecha>
+		<descripcion_es>San Valentín de Berri-Otxoa</descripcion_es>
+		<descripcion_eu>Berrio-Otxoatar San Balendin</descripcion_eu>
+		<lugar_es>Elorrio</lugar_es>
+		<lugar_eu>Elorrio</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>32</codigo_eustat>
+		<latitud>43.130387</latitud>
+		<longitud>-2.542155</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>28/08/2017</fecha>
+		<descripcion_es>San Agustín</descripcion_es>
+		<descripcion_eu>Agustin Deuna</descripcion_eu>
+		<lugar_es>Erandio</lugar_es>
+		<lugar_eu>Erandio</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>902</codigo_eustat>
+		<latitud>43.307458</latitud>
+		<longitud>-2.946418</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>29/09/2017</fecha>
+		<descripcion_es>San Miguel</descripcion_es>
+		<descripcion_eu>Mikel Deuna</descripcion_eu>
+		<lugar_es>Ereño</lugar_es>
+		<lugar_eu>Ereño</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>33</codigo_eustat>
+		<latitud>43.356944</latitud>
+		<longitud>-2.621667</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>27/07/2017</fecha>
+		<descripcion_es>Zezen eguna</descripcion_es>
+		<descripcion_eu>Zezen eguna</descripcion_eu>
+		<lugar_es>Ermua</lugar_es>
+		<lugar_eu>Ermua</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>34</codigo_eustat>
+		<latitud>43.186642</latitud>
+		<longitud>-2.502607</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>13/06/2017</fecha>
+		<descripcion_es>San Antonio</descripcion_es>
+		<descripcion_eu>San Antonio</descripcion_eu>
+		<lugar_es>Errigoiti</lugar_es>
+		<lugar_eu>Errigoiti</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>79</codigo_eustat>
+		<latitud>43.318709</latitud>
+		<longitud>-2.725344</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>26/12/2017</fecha>
+		<descripcion_es>San Esteban</descripcion_es>
+		<descripcion_eu>Doneztebe</descripcion_eu>
+		<lugar_es>Etxebarri</lugar_es>
+		<lugar_eu>Etxebarri</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>29</codigo_eustat>
+		<latitud>43.247179</latitud>
+		<longitud>-2.890139</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>30/11/2017</fecha>
+		<descripcion_es>San Andrés</descripcion_es>
+		<descripcion_eu>Andres Deuna</descripcion_eu>
+		<lugar_es>Etxebarria</lugar_es>
+		<lugar_eu>Etxebarria</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>30</codigo_eustat>
+		<latitud>43.254146</latitud>
+		<longitud>-2.477354</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>13/11/2017</fecha>
+		<descripcion_es>San Martin </descripcion_es>
+		<descripcion_eu>Martin Deuna </descripcion_eu>
+		<lugar_es>Forua</lugar_es>
+		<lugar_eu>Forua</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>906</codigo_eustat>
+		<latitud>43.333712</latitud>
+		<longitud>-2.678589</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>10/08/2017</fecha>
+		<descripcion_es>Fiesta local</descripcion_es>
+		<descripcion_eu>Tokiko jai-eguna</descripcion_eu>
+		<lugar_es>Fruiz</lugar_es>
+		<lugar_eu>Fruiz</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>35</codigo_eustat>
+		<latitud>43.328889</latitud>
+		<longitud>-2.783333</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>14/09/2017</fecha>
+		<descripcion_es>Exaltación de la Santa Cruz</descripcion_es>
+		<descripcion_eu>Gurutze Santuaren Gorozpena</descripcion_eu>
+		<lugar_es>Galdakao</lugar_es>
+		<lugar_eu>Galdakao</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>36</codigo_eustat>
+		<latitud>43.230556</latitud>
+		<longitud>-2.845833</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>29/06/2017</fecha>
+		<descripcion_es>San Pedro</descripcion_es>
+		<descripcion_eu>San Pedro</descripcion_eu>
+		<lugar_es>Galdames</lugar_es>
+		<lugar_eu>Galdames</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>37</codigo_eustat>
+		<latitud>43.255</latitud>
+		<longitud>-3.096389</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>11/11/2017</fecha>
+		<descripcion_es>San Antolín</descripcion_es>
+		<descripcion_eu>San Antolin</descripcion_eu>
+		<lugar_es>Gamiz-Fika</lugar_es>
+		<lugar_eu>Gamiz-Fika</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>38</codigo_eustat>
+		<latitud>43.311728</latitud>
+		<longitud>-2.810701</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>26/06/2017</fecha>
+		<descripcion_es>Santa Ana</descripcion_es>
+		<descripcion_eu>Santa Ana</descripcion_eu>
+		<lugar_es>Garai</lugar_es>
+		<lugar_eu>Garai</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>39</codigo_eustat>
+		<latitud>43.194722</latitud>
+		<longitud>-2.609722</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>25/04/2017</fecha>
+		<descripcion_es>San Bartolomé</descripcion_es>
+		<descripcion_eu>San Bartolome</descripcion_eu>
+		<lugar_es>Gatika</lugar_es>
+		<lugar_eu>Gatika</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>40</codigo_eustat>
+		<latitud>43.363889</latitud>
+		<longitud>-2.871944</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>26/01/2017</fecha>
+		<descripcion_es>San Polikarpo</descripcion_es>
+		<descripcion_eu>San Polikarpo</descripcion_eu>
+		<lugar_es>Gautegiz Arteaga</lugar_es>
+		<lugar_eu>Gautegiz Arteaga</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>41</codigo_eustat>
+		<latitud>43.353104</latitud>
+		<longitud>-2.650985</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>16/08/2017</fecha>
+		<descripcion_es>Roke Deuna</descripcion_es>
+		<descripcion_eu>Roke Deuna</descripcion_eu>
+		<lugar_es>Gernika-Lumo</lugar_es>
+		<lugar_eu>Gernika-Lumo</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>46</codigo_eustat>
+		<latitud>43.317073</latitud>
+		<longitud>-2.678975</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>15/05/2017</fecha>
+		<descripcion_es>San Isidro</descripcion_es>
+		<descripcion_eu>Isidro Deuna</descripcion_eu>
+		<lugar_es>Getxo</lugar_es>
+		<lugar_eu>Getxo</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>44</codigo_eustat>
+		<latitud>43.344167</latitud>
+		<longitud>-3.006389</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>08/09/2017</fecha>
+		<descripcion_es>Andra Mari</descripcion_es>
+		<descripcion_eu>Andra Mari</descripcion_eu>
+		<lugar_es>Gizaburuaga</lugar_es>
+		<lugar_eu>Gizaburuaga</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>47</codigo_eustat>
+		<latitud>43.33194</latitud>
+		<longitud>-2.536111</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>26/09/2017</fecha>
+		<descripcion_es>San Cosme y San Damián</descripcion_es>
+		<descripcion_eu>San Kosme eta San Damian</descripcion_eu>
+		<lugar_es>Gordexola</lugar_es>
+		<lugar_eu>Gordexola</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>42</codigo_eustat>
+		<latitud>43.178611</latitud>
+		<longitud>-3.072778</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>05/08/2017</fecha>
+		<descripcion_es>Nª Sª de Agirre y de las Nieves</descripcion_es>
+		<descripcion_eu>Edurne eta Agirreko Andra Mari</descripcion_eu>
+		<lugar_es>Gorliz</lugar_es>
+		<lugar_eu>Gorliz</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>43</codigo_eustat>
+		<latitud>43.416667</latitud>
+		<longitud>-2.933333</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>10/08/2017</fecha>
+		<descripcion_es>San Lorenzo</descripcion_es>
+		<descripcion_eu>San Lorentzo</descripcion_eu>
+		<lugar_es>Güeñes</lugar_es>
+		<lugar_eu>Güeñes</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>45</codigo_eustat>
+		<latitud>43.210321</latitud>
+		<longitud>-3.095317</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>15/06/2017</fecha>
+		<descripcion_es>Corpus Christi</descripcion_es>
+		<descripcion_eu>Corpus Christi</descripcion_eu>
+		<lugar_es>Ibarrangelu</lugar_es>
+		<lugar_eu>Ibarrangelu</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>48</codigo_eustat>
+		<latitud>43.390215</latitud>
+		<longitud>-2.633802</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>13/06/2017</fecha>
+		<descripcion_es>San Antonio</descripcion_es>
+		<descripcion_eu>San Antonio</descripcion_eu>
+		<lugar_es>Igorre</lugar_es>
+		<lugar_eu>Igorre</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>94</codigo_eustat>
+		<latitud>43.165833</latitud>
+		<longitud>-2.776111</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>26/07/2017</fecha>
+		<descripcion_es>Santa Ana</descripcion_es>
+		<descripcion_eu>Santa Ana</descripcion_eu>
+		<lugar_es>Ispaster</lugar_es>
+		<lugar_eu>Ispaster</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>49</codigo_eustat>
+		<latitud>43.362954</latitud>
+		<longitud>-2.544635</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>29/09/2017</fecha>
+		<descripcion_es>San Miguel</descripcion_es>
+		<descripcion_eu>San Migel</descripcion_eu>
+		<lugar_es>Iurreta</lugar_es>
+		<lugar_eu>Iurreta</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>910</codigo_eustat>
+		<latitud>43.176705</latitud>
+		<longitud>-2.633777</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>08/09/2017</fecha>
+		<descripcion_es>Nuestra Señora de Erdoiza</descripcion_es>
+		<descripcion_eu>Erdoizako Andra Maria</descripcion_eu>
+		<lugar_es>Izurtza</lugar_es>
+		<lugar_eu>Izurtza</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>50</codigo_eustat>
+		<latitud>43.152273</latitud>
+		<longitud>-2.641978</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>18/09/2017</fecha>
+		<descripcion_es>Nuestra Señora del Buen Suceso</descripcion_es>
+		<descripcion_eu>Buen Sucesoko Ama</descripcion_eu>
+		<lugar_es>Valle de Carranza</lugar_es>
+		<lugar_eu>Karrantza Harana</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>22</codigo_eustat>
+		<latitud>43.225278</latitud>
+		<longitud>-3.359444</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>26/07/2017</fecha>
+		<descripcion_es>Fiesta local</descripcion_es>
+		<descripcion_eu>Tokiko jai-eguna</descripcion_eu>
+		<lugar_es>Kortezubi</lugar_es>
+		<lugar_eu>Kortezubi</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>907</codigo_eustat>
+		<latitud>43.335982</latitud>
+		<longitud>-2.654319</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>05/08/2017</fecha>
+		<descripcion_es>Nª Sª de las Nieves</descripcion_es>
+		<descripcion_eu>Edurneko Andra Mari</descripcion_eu>
+		<lugar_es>Lanestosa</lugar_es>
+		<lugar_eu>Lanestosa</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>51</codigo_eustat>
+		<latitud>43.221169</latitud>
+		<longitud>-3.439148</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>15/05/2017</fecha>
+		<descripcion_es>San Isidro Labrador</descripcion_es>
+		<descripcion_eu>San Isidro baserritar</descripcion_eu>
+		<lugar_es>Larrabetzu</lugar_es>
+		<lugar_eu>Larrabetzu</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>52</codigo_eustat>
+		<latitud>43.260973</latitud>
+		<longitud>-2.796175</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>29/09/2017</fecha>
+		<descripcion_es>San Miguel</descripcion_es>
+		<descripcion_eu>Mikel Deuna</descripcion_eu>
+		<lugar_es>Laukiz</lugar_es>
+		<lugar_eu>Laukiz</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>53</codigo_eustat>
+		<latitud>43.353333</latitud>
+		<longitud>-2.906111</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>24/06/2017</fecha>
+		<descripcion_es>San Juan</descripcion_es>
+		<descripcion_eu>San Juan</descripcion_eu>
+		<lugar_es>Leioa </lugar_es>
+		<lugar_eu>Leioa</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>54</codigo_eustat>
+		<latitud>43.326097</latitud>
+		<longitud>-2.987704</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>02/09/2017</fecha>
+		<descripcion_es>San Antolín</descripcion_es>
+		<descripcion_eu>San Antolín</descripcion_eu>
+		<lugar_es>Lekeitio</lugar_es>
+		<lugar_eu>Lekeitio</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>57</codigo_eustat>
+		<latitud>43.365509</latitud>
+		<longitud>-2.503344</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>08/09/2017</fecha>
+		<descripcion_es>Andra Maria</descripcion_es>
+		<descripcion_eu>Andra Mari</descripcion_eu>
+		<lugar_es>Lemoa</lugar_es>
+		<lugar_eu>Lemoa</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>55</codigo_eustat>
+		<latitud>43.208759</latitud>
+		<longitud>-2.774116</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>17/10/2017</fecha>
+		<descripcion_es>Fiesta local</descripcion_es>
+		<descripcion_eu>Tokiko jai-eguna</descripcion_eu>
+		<lugar_es>Lemoiz</lugar_es>
+		<lugar_eu>Lemoiz</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>56</codigo_eustat>
+		<latitud>43.413244</latitud>
+		<longitud>-2.902253</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>08/09/2017</fecha>
+		<descripcion_es>Andra Maria</descripcion_es>
+		<descripcion_eu>Andra Maria</descripcion_eu>
+		<lugar_es>Lezama</lugar_es>
+		<lugar_eu>Lezama</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>81</codigo_eustat>
+		<latitud>43.272167</latitud>
+		<longitud>-2.832167</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>29/06/2017</fecha>
+		<descripcion_es>San Pedro</descripcion_es>
+		<descripcion_eu>San Pedro</descripcion_eu>
+		<lugar_es>Loiu</lugar_es>
+		<lugar_eu>Loiu</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>903</codigo_eustat>
+		<latitud>43.315</latitud>
+		<longitud>-2.938333</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>01/03/2017</fecha>
+		<descripcion_es>Miércoles de Ceniza</descripcion_es>
+		<descripcion_eu>Hausterre eguna</descripcion_eu>
+		<lugar_es>Mallabia</lugar_es>
+		<lugar_eu>Mallabia</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>58</codigo_eustat>
+		<latitud>43.189651</latitud>
+		<longitud>-2.529969</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>21/10/2017</fecha>
+		<descripcion_es>Santa Ursula</descripcion_es>
+		<descripcion_eu>Santa Urtsula</descripcion_eu>
+		<lugar_es>Mañaria</lugar_es>
+		<lugar_eu>Mañaria</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>59</codigo_eustat>
+		<latitud>43.137485</latitud>
+		<longitud>-2.661135</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>29/09/2017</fecha>
+		<descripcion_es>San Miguel</descripcion_es>
+		<descripcion_eu>Mikel Deuna</descripcion_eu>
+		<lugar_es>Markina-Xemein</lugar_es>
+		<lugar_eu>Markina-Xemein</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>60</codigo_eustat>
+		<latitud>43.270604</latitud>
+		<longitud>-2.497155</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>10/08/2017</fecha>
+		<descripcion_es>San Lorenzo</descripcion_es>
+		<descripcion_eu>San Lorentzo jai-eguna</descripcion_eu>
+		<lugar_es>Maruri-Jatabe</lugar_es>
+		<lugar_eu>Maruri-Jatabe</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>61</codigo_eustat>
+		<latitud>43.382772</latitud>
+		<longitud>-2.874989</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>29/09/2017</fecha>
+		<descripcion_es>San Miguel</descripcion_es>
+		<descripcion_eu>San Migel</descripcion_eu>
+		<lugar_es>Mendata</lugar_es>
+		<lugar_eu>Mendata</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>62</codigo_eustat>
+		<latitud>43.283333</latitud>
+		<longitud>-2.633333</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>01/08/2017</fecha>
+		<descripcion_es>San Pedro Ad Vincula</descripcion_es>
+		<descripcion_eu>San Pedro Ad Vincula</descripcion_eu>
+		<lugar_es>Mendexa</lugar_es>
+		<lugar_eu>Mendexa</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>63</codigo_eustat>
+		<latitud>43.346389</latitud>
+		<longitud>-2.483333</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>16/08/2017</fecha>
+		<descripcion_es>San Roque</descripcion_es>
+		<descripcion_eu>San Roke eguna</descripcion_eu>
+		<lugar_es>Meñaka</lugar_es>
+		<lugar_eu>Meñaka</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>64</codigo_eustat>
+		<latitud>43.364464</latitud>
+		<longitud>-2.801795</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>26/07/2017</fecha>
+		<descripcion_es>Santa Ana</descripcion_es>
+		<descripcion_eu>Santa Ana</descripcion_eu>
+		<lugar_es>Morga</lugar_es>
+		<lugar_eu>Morga</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>66</codigo_eustat>
+		<latitud>43.297932</latitud>
+		<longitud>-2.752739</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>29/06/2017</fecha>
+		<descripcion_es>San Pedro y San Pablo</descripcion_es>
+		<descripcion_eu>San Pedro eta San Pablo</descripcion_eu>
+		<lugar_es>Mundaka</lugar_es>
+		<lugar_eu>Mundaka</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>68</codigo_eustat>
+		<latitud>43.407335</latitud>
+		<longitud>-2.698322</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>29/06/2017</fecha>
+		<descripcion_es>San Pedro</descripcion_es>
+		<descripcion_eu>San Pedro</descripcion_eu>
+		<lugar_es>Mungia</lugar_es>
+		<lugar_eu>Mungia</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>69</codigo_eustat>
+		<latitud>43.35441</latitud>
+		<longitud>-2.846714</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>29/06/2017</fecha>
+		<descripcion_es>San Pedro</descripcion_es>
+		<descripcion_eu>San Pedro</descripcion_eu>
+		<lugar_es>Munitibar-Arbatzegi Gerrikaitz</lugar_es>
+		<lugar_eu>Munitibar-Arbatzegi Gerrikaitz</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>7</codigo_eustat>
+		<latitud>43.265332</latitud>
+		<longitud>-2.591845</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>08/09/2017</fecha>
+		<descripcion_es>Andra Maria</descripcion_es>
+		<descripcion_eu>Andra Mari</descripcion_eu>
+		<lugar_es>Murueta</lugar_es>
+		<lugar_eu>Murueta</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>908</codigo_eustat>
+		<latitud>43.354463</latitud>
+		<longitud>-2.684153</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>24/06/2017</fecha>
+		<descripcion_es>San Juan</descripcion_es>
+		<descripcion_eu>San Juan</descripcion_eu>
+		<lugar_es>Muskiz</lugar_es>
+		<lugar_eu>Muskiz</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>71</codigo_eustat>
+		<latitud>43.323333</latitud>
+		<longitud>-3.121667</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>30/10/2017</fecha>
+		<descripcion_es>Ultimo lunes de octubre</descripcion_es>
+		<descripcion_eu>Urriako azken astelehena</descripcion_eu>
+		<lugar_es>Muxika</lugar_es>
+		<lugar_eu>Muxika</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>67</codigo_eustat>
+		<latitud>43.289668</latitud>
+		<longitud>-2.692941</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>08/09/2017</fecha>
+		<descripcion_es>Andra Maria</descripcion_es>
+		<descripcion_eu>Andra Maria</descripcion_eu>
+		<lugar_es>Nabarniz</lugar_es>
+		<lugar_eu>Nabarniz</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>909</codigo_eustat>
+		<latitud>43.321597</latitud>
+		<longitud>-2.5844</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>17/08/2017</fecha>
+		<descripcion_es>Día del pescador</descripcion_es>
+		<descripcion_eu>Arrantzale eguna</descripcion_eu>
+		<lugar_es>Ondarroa</lugar_es>
+		<lugar_eu>Ondarroa</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>73</codigo_eustat>
+		<latitud>43.320698</latitud>
+		<longitud>-2.420475</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>02/09/2017</fecha>
+		<descripcion_es>San Antolin</descripcion_es>
+		<descripcion_eu>Antolin Deuna</descripcion_eu>
+		<lugar_es>Orozko</lugar_es>
+		<lugar_eu>Orozko</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>75</codigo_eustat>
+		<latitud>43.108611</latitud>
+		<longitud>-2.911111</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>18/05/2017</fecha>
+		<descripcion_es>San Félix de Cantalicio</descripcion_es>
+		<descripcion_eu>Kantalizioko San Felix</descripcion_eu>
+		<lugar_es>Ortuella</lugar_es>
+		<lugar_eu>Ortuella</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>83</codigo_eustat>
+		<latitud>43.31137</latitud>
+		<longitud>-3.055952</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>18/07/2017</fecha>
+		<descripcion_es>Fiesta local</descripcion_es>
+		<descripcion_eu>Tokiko jaieguna</descripcion_eu>
+		<lugar_es>Otxandio</lugar_es>
+		<lugar_eu>Otxandio</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>72</codigo_eustat>
+		<latitud>43.040447</latitud>
+		<longitud>-2.654584</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>21/07/2017</fecha>
+		<descripcion_es>La Magdalena</descripcion_es>
+		<descripcion_eu>Madalen</descripcion_eu>
+		<lugar_es>Plentzia</lugar_es>
+		<lugar_eu>Plentzia</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>77</codigo_eustat>
+		<latitud>43.40443</latitud>
+		<longitud>-2.950102</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>16/08/2017</fecha>
+		<descripcion_es>San Roke</descripcion_es>
+		<descripcion_eu>Roke Deuna</descripcion_eu>
+		<lugar_es>Portugalete</lugar_es>
+		<lugar_eu>Portugalete</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>78</codigo_eustat>
+		<latitud>43.320664</latitud>
+		<longitud>-3.020252</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>08/09/2017</fecha>
+		<descripcion_es>Virgen del Mar</descripcion_es>
+		<descripcion_eu>Itsasoko Ama Birjina</descripcion_eu>
+		<lugar_es>Santurtzi</lugar_es>
+		<lugar_eu>Santurtzi</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>82</codigo_eustat>
+		<latitud>43.328711</latitud>
+		<longitud>-3.031772</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>29/06/2017</fecha>
+		<descripcion_es>San Pedro Apostol</descripcion_es>
+		<descripcion_eu>San Pedro Apostol</descripcion_eu>
+		<lugar_es>Sestao</lugar_es>
+		<lugar_eu>Sestao</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>84</codigo_eustat>
+		<latitud>43.309635</latitud>
+		<longitud>-3.00694</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>24/06/2017</fecha>
+		<descripcion_es>San Juan</descripcion_es>
+		<descripcion_eu>San Juan</descripcion_eu>
+		<lugar_es>Sondika</lugar_es>
+		<lugar_eu>Sondika</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>904</codigo_eustat>
+		<latitud>43.300063</latitud>
+		<longitud>-2.927103</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>29/06/2017</fecha>
+		<descripcion_es>San Pedro</descripcion_es>
+		<descripcion_eu>San Pedro</descripcion_eu>
+		<lugar_es>Sopelana</lugar_es>
+		<lugar_eu>Sopelana</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>85</codigo_eustat>
+		<latitud>43.378918</latitud>
+		<longitud>-2.983002</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>26/07/2017</fecha>
+		<descripcion_es>Santa Ana</descripcion_es>
+		<descripcion_eu>Santa Ana</descripcion_eu>
+		<lugar_es>Sopuerta</lugar_es>
+		<lugar_eu>Sopuerta</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>86</codigo_eustat>
+		<latitud>43.262778</latitud>
+		<longitud>-3.1525</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>30/11/2017</fecha>
+		<descripcion_es>San Andrés</descripcion_es>
+		<descripcion_eu>San Andres</descripcion_eu>
+		<lugar_es>Sukarrieta</lugar_es>
+		<lugar_eu>Sukarrieta</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>76</codigo_eustat>
+		<latitud>43.395342</latitud>
+		<longitud>-2.696367</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>29/06/2017</fecha>
+		<descripcion_es>San Pedro</descripcion_es>
+		<descripcion_eu>San Pedro</descripcion_eu>
+		<lugar_es>Trucios-Turtzioz</lugar_es>
+		<lugar_eu>Trucios-Turtzioz</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>87</codigo_eustat>
+		<latitud>43.272678</latitud>
+		<longitud>-3.288545</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>24/06/2017</fecha>
+		<descripcion_es>San Juan</descripcion_es>
+		<descripcion_eu>San Juan</descripcion_eu>
+		<lugar_es>Ubide</lugar_es>
+		<lugar_eu>Ubide</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>88</codigo_eustat>
+		<latitud>43.026832</latitud>
+		<longitud>-2.688209</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>08/09/2017</fecha>
+		<descripcion_es>Nuestra Señora de Udiarraga</descripcion_es>
+		<descripcion_eu>Udiarragako Andra Maria</descripcion_eu>
+		<lugar_es>Ugao-Miraballes</lugar_es>
+		<lugar_eu>Ugao-Miraballes</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>65</codigo_eustat>
+		<latitud>43.179989</latitud>
+		<longitud>-2.902508</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>08/09/2017</fecha>
+		<descripcion_es>Andra Maria</descripcion_es>
+		<descripcion_eu>Andra Maria</descripcion_eu>
+		<lugar_es>Urduliz</lugar_es>
+		<lugar_eu>Urduliz</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>89</codigo_eustat>
+		<latitud>43.379667</latitud>
+		<longitud>-2.962</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>08/05/2017</fecha>
+		<descripcion_es>Otxomaio</descripcion_es>
+		<descripcion_eu>Otxomaio</descripcion_eu>
+		<lugar_es>Urduña-Orduña</lugar_es>
+		<lugar_eu>Urduña-Orduña</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>74</codigo_eustat>
+		<latitud>42.994449</latitud>
+		<longitud>-3.009622</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>07/08/2017</fecha>
+		<descripcion_es>Transfiguración del Señor</descripcion_es>
+		<descripcion_eu>Jaungoikoaren antzaldatzea</descripcion_eu>
+		<lugar_es>Valle de Trápaga-Trapagaran</lugar_es>
+		<lugar_eu>Valle de Trápaga-Trapagaran</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>80</codigo_eustat>
+		<latitud>43.303108</latitud>
+		<longitud>-3.035548</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>07/07/2017</fecha>
+		<descripcion_es>Fiesta local</descripcion_es>
+		<descripcion_eu>Tokiko jaieguna</descripcion_eu>
+		<lugar_es>Zaldibar</lugar_es>
+		<lugar_eu>Zaldibar</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>95</codigo_eustat>
+		<latitud>43.17097</latitud>
+		<longitud>-2.54713</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>03/10/2017</fecha>
+		<descripcion_es>Día de Gangas</descripcion_es>
+		<descripcion_eu>Mahuka Eguna</descripcion_eu>
+		<lugar_es>Zalla</lugar_es>
+		<lugar_eu>Zalla</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>96</codigo_eustat>
+		<latitud>43.214009</latitud>
+		<longitud>-3.135223</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>05/06/2017</fecha>
+		<descripcion_es>Pentecostes</descripcion_es>
+		<descripcion_eu>Pentecostés</descripcion_eu>
+		<lugar_es>Zamudio</lugar_es>
+		<lugar_eu>Zamudio</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>905</codigo_eustat>
+		<latitud>43.283333</latitud>
+		<longitud>-2.866667</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>10/08/2017</fecha>
+		<descripcion_es>San Lorenzo</descripcion_es>
+		<descripcion_eu>San Lorentzo</descripcion_eu>
+		<lugar_es>Zaratamo</lugar_es>
+		<lugar_eu>Zaratamo</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>97</codigo_eustat>
+		<latitud>43.211505</latitud>
+		<longitud>-2.873626</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>15/05/2017</fecha>
+		<descripcion_es>San Isidro</descripcion_es>
+		<descripcion_eu>San Isidro</descripcion_eu>
+		<lugar_es>Zeanuri</lugar_es>
+		<lugar_eu>Zeanuri</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>24</codigo_eustat>
+		<latitud>43.099664</latitud>
+		<longitud>-2.749615</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>02/09/2017</fecha>
+		<descripcion_es>San Antolín</descripcion_es>
+		<descripcion_eu>San Antolin</descripcion_eu>
+		<lugar_es>Zeberio</lugar_es>
+		<lugar_eu>Zeberio</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>25</codigo_eustat>
+		<latitud>43.152778</latitud>
+		<longitud>-2.852778</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>16/10/2017</fecha>
+		<descripcion_es>Día de la Independencia de Zierbena</descripcion_es>
+		<descripcion_eu>Zierbenako Independentziaren Eguna</descripcion_eu>
+		<lugar_es>Zierbena</lugar_es>
+		<lugar_eu>Zierbena</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>913</codigo_eustat>
+		<latitud>43.347655</latitud>
+		<longitud>-3.086152</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>24/06/2017</fecha>
+		<descripcion_es>San Juan</descripcion_es>
+		<descripcion_eu>San Juan</descripcion_eu>
+		<lugar_es>Ziortza-Bolibar</lugar_es>
+		<lugar_eu>Ziortza-Bolibar</lugar_eu>
+		<territorio>Bizkaia</territorio>
+		<codigo_eustat>915</codigo_eustat>
+		<latitud>43.24982</latitud>
+		<longitud>-2.550174</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>24/06/2017</fecha>
+		<descripcion_es>San Juan</descripcion_es>
+		<descripcion_eu>San Juan</descripcion_eu>
+		<lugar_es>Abaltzisketa</lugar_es>
+		<lugar_eu>Abaltzisketa</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>1</codigo_eustat>
+		<latitud>43.047582</latitud>
+		<longitud>-2.105388</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>14/08/2017</fecha>
+		<descripcion_es>Fiestas de la Virgen</descripcion_es>
+		<descripcion_eu>Ama Birjin jaiak</descripcion_eu>
+		<lugar_es>Aduna</lugar_es>
+		<lugar_eu>Aduna</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>2</codigo_eustat>
+		<latitud>43.203792</latitud>
+		<longitud>-2.050079</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>07/08/2017</fecha>
+		<descripcion_es>San Donato</descripcion_es>
+		<descripcion_eu>San Donato</descripcion_eu>
+		<lugar_es>Aia</lugar_es>
+		<lugar_eu>Aia</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>16</codigo_eustat>
+		<latitud>43.236922</latitud>
+		<longitud>-2.149008</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>29/09/2017</fecha>
+		<descripcion_es>San Miguel</descripcion_es>
+		<descripcion_eu>San Migel</descripcion_eu>
+		<lugar_es>Aizarnazabal</lugar_es>
+		<lugar_eu>Aizarnazabal</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>3</codigo_eustat>
+		<latitud>43.255405</latitud>
+		<longitud>-2.236461</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>14/08/2017</fecha>
+		<descripcion_es>Asunción de la Virgen</descripcion_es>
+		<descripcion_eu>Jasokundeko Andra Mariren jaiak</descripcion_eu>
+		<lugar_es>Albiztur</lugar_es>
+		<lugar_eu>Albiztur</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>4</codigo_eustat>
+		<latitud>43.129723</latitud>
+		<longitud>-2.13718</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>14/07/2017</fecha>
+		<descripcion_es>La Virgen del Carmen</descripcion_es>
+		<descripcion_eu>Karmen eguna</descripcion_eu>
+		<lugar_es>Alegia</lugar_es>
+		<lugar_eu>Alegia</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>5</codigo_eustat>
+		<latitud>43.100017</latitud>
+		<longitud>-2.096273</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>08/09/2017</fecha>
+		<descripcion_es>Zaindariaren jaiak</descripcion_es>
+		<descripcion_eu>Zaindariaren jaiak</descripcion_eu>
+		<lugar_es>Alkiza</lugar_es>
+		<lugar_eu>Alkiza</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>6</codigo_eustat>
+		<latitud>43.172434</latitud>
+		<longitud>-2.109436</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>29/09/2017</fecha>
+		<descripcion_es>San Miguel</descripcion_es>
+		<descripcion_eu>San Migel</descripcion_eu>
+		<lugar_es>Altzaga</lugar_es>
+		<lugar_eu>Altzaga</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>906</codigo_eustat>
+		<latitud>43.06449</latitud>
+		<longitud>-2.153833</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>27/02/2017</fecha>
+		<descripcion_es>Lunes Carnaval</descripcion_es>
+		<descripcion_eu>Iñauterietako astelehena</descripcion_eu>
+		<lugar_es>Altzo</lugar_es>
+		<lugar_eu>Altzo</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>7</codigo_eustat>
+		<latitud>43.100072</latitud>
+		<longitud>-2.083905</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>24/08/2017</fecha>
+		<descripcion_es>San Bartolome</descripcion_es>
+		<descripcion_eu>San Bartolome</descripcion_eu>
+		<lugar_es>Amezketa</lugar_es>
+		<lugar_eu>Amezketa</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>8</codigo_eustat>
+		<latitud>43.044517</latitud>
+		<longitud>-2.083235</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>24/06/2017</fecha>
+		<descripcion_es>San Juan</descripcion_es>
+		<descripcion_eu>San Juan</descripcion_eu>
+		<lugar_es>Andoain</lugar_es>
+		<lugar_eu>Andoain</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>9</codigo_eustat>
+		<latitud>43.22048</latitud>
+		<longitud>-2.021122</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>15/06/2017</fecha>
+		<descripcion_es>Corpus Christi</descripcion_es>
+		<descripcion_eu>Gorpuzti-eguna</descripcion_eu>
+		<lugar_es>Anoeta</lugar_es>
+		<lugar_eu>Anoeta</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>10</codigo_eustat>
+		<latitud>43.161467</latitud>
+		<longitud>-2.070695</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>14/07/2017</fecha>
+		<descripcion_es>Viernes anterior al 3er domingo julio</descripcion_es>
+		<descripcion_eu>Uztailaren 3. igandearen aurreko ostirala</descripcion_eu>
+		<lugar_es>Antzuola</lugar_es>
+		<lugar_eu>Antzuola</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>11</codigo_eustat>
+		<latitud>43.099441</latitud>
+		<longitud>-2.381747</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>11/11/2017</fecha>
+		<descripcion_es>San Martín</descripcion_es>
+		<descripcion_eu>San Martin</descripcion_eu>
+		<lugar_es>Arama</lugar_es>
+		<lugar_eu>Arama</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>12</codigo_eustat>
+		<latitud>43.063637</latitud>
+		<longitud>-2.165558</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>16/08/2017</fecha>
+		<descripcion_es>Andra Mari</descripcion_es>
+		<descripcion_eu>Andramaixak</descripcion_eu>
+		<lugar_es>Aretxabaleta</lugar_es>
+		<lugar_eu>Aretxabaleta</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>13</codigo_eustat>
+		<latitud>43.036248</latitud>
+		<longitud>-2.504542</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>24/06/2017</fecha>
+		<descripcion_es>San Juan</descripcion_es>
+		<descripcion_eu>San Juan</descripcion_eu>
+		<lugar_es>Arrasate-Mondragon</lugar_es>
+		<lugar_eu>Arrasate-Mondragon</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>55</codigo_eustat>
+		<latitud>43.066517</latitud>
+		<longitud>-2.487562</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>29/06/2017</fecha>
+		<descripcion_es>San Pedro</descripcion_es>
+		<descripcion_eu>San Pedro</descripcion_eu>
+		<lugar_es>Asteasu</lugar_es>
+		<lugar_eu>Asteasu</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>14</codigo_eustat>
+		<latitud>43.195198</latitud>
+		<longitud>-2.097548</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>26/07/2017</fecha>
+		<descripcion_es>Santa Ana</descripcion_es>
+		<descripcion_eu>Santa Ana</descripcion_eu>
+		<lugar_es>Astigarraga</lugar_es>
+		<lugar_eu>Astigarraga</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>903</codigo_eustat>
+		<latitud>43.280652</latitud>
+		<longitud>-1.94756</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>11/11/2017</fecha>
+		<descripcion_es>San Martín</descripcion_es>
+		<descripcion_eu>San Martín</descripcion_eu>
+		<lugar_es>Ataun - Bº San Martin</lugar_es>
+		<lugar_eu>Ataun - San Martin auzoa</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>15</codigo_eustat>
+		<latitud>43.00548</latitud>
+		<longitud>-2.17662</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>01/09/2017</fecha>
+		<descripcion_es>San Gregorio</descripcion_es>
+		<descripcion_eu>San Gregorio</descripcion_eu>
+		<lugar_es>Ataun - Bº San Gregorio</lugar_es>
+		<lugar_eu>Ataun - San Gregorio auzoa</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>15</codigo_eustat>
+		<latitud>42.978091</latitud>
+		<longitud>-2.180286</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>30/06/2017</fecha>
+		<descripcion_es>Viernes anterior a Santa Isabel</descripcion_es>
+		<descripcion_eu>Santa Isabel aurreko ostirala</descripcion_eu>
+		<lugar_es>Ataun - Bº de Aia</lugar_es>
+		<lugar_eu>Ataun - Aia auzoa</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>15</codigo_eustat>
+		<latitud>42.966249</latitud>
+		<longitud>-2.15433</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>30/11/2017</fecha>
+		<descripcion_es>San Andrés</descripcion_es>
+		<descripcion_eu>San Andres</descripcion_eu>
+		<lugar_es>Azkoitia</lugar_es>
+		<lugar_eu>Azkoitia</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>17</codigo_eustat>
+		<latitud>43.178205</latitud>
+		<longitud>-2.31164</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>20/01/2017</fecha>
+		<descripcion_es>San Sebastián</descripcion_es>
+		<descripcion_eu>San Sebastian</descripcion_eu>
+		<lugar_es>Azpeitia</lugar_es>
+		<lugar_eu>Azpeitia</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>18</codigo_eustat>
+		<latitud>43.1839</latitud>
+		<longitud>-2.265466</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>15/05/2017</fecha>
+		<descripcion_es>San Isidro</descripcion_es>
+		<descripcion_eu>San Isidro</descripcion_eu>
+		<lugar_es>Baliarrain</lugar_es>
+		<lugar_eu>Baliarrain</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>904</codigo_eustat>
+		<latitud>43.069306</latitud>
+		<longitud>-2.129235</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>29/05/2017</fecha>
+		<descripcion_es>San Martin de Loinaz</descripcion_es>
+		<descripcion_eu>Loinatz bigarrena</descripcion_eu>
+		<lugar_es>Beasain</lugar_es>
+		<lugar_eu>Beasain</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>19</codigo_eustat>
+		<latitud>43.047076</latitud>
+		<longitud>-2.204605</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>29/06/2017</fecha>
+		<descripcion_es>San Pedro</descripcion_es>
+		<descripcion_eu>San Pedro</descripcion_eu>
+		<lugar_es>Beizama</lugar_es>
+		<lugar_eu>Beizama</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>20</codigo_eustat>
+		<latitud>43.134191</latitud>
+		<longitud>-2.200113</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>23/06/2017</fecha>
+		<descripcion_es>Víspera de San Juan</descripcion_es>
+		<descripcion_eu>San Juan bezpera</descripcion_eu>
+		<lugar_es>Belaunza</lugar_es>
+		<lugar_eu>Belaunza</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>21</codigo_eustat>
+		<latitud>43.135283</latitud>
+		<longitud>-2.050705</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>10/08/2017</fecha>
+		<descripcion_es>San Lorenzo</descripcion_es>
+		<descripcion_eu>San Lorentzo</descripcion_eu>
+		<lugar_es>Berastegi</lugar_es>
+		<lugar_eu>Berastegi</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>22</codigo_eustat>
+		<latitud>43.124029</latitud>
+		<longitud>-1.979426</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>16/09/2017</fecha>
+		<descripcion_es>San Martín de Agirre</descripcion_es>
+		<descripcion_eu>San Martin Agirre</descripcion_eu>
+		<lugar_es>Bergara</lugar_es>
+		<lugar_eu>Bergara</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>74</codigo_eustat>
+		<latitud>43.118217</latitud>
+		<longitud>-2.413358</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>28/08/2017</fecha>
+		<descripcion_es>San Agustín</descripcion_es>
+		<descripcion_eu>San Agustin</descripcion_eu>
+		<lugar_es>Berrobi</lugar_es>
+		<lugar_eu>Berrobi</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>23</codigo_eustat>
+		<latitud>43.145479</latitud>
+		<longitud>-2.026374</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>16/08/2017</fecha>
+		<descripcion_es>La Virgen</descripcion_es>
+		<descripcion_eu>Ama Birjina</descripcion_eu>
+		<lugar_es>Bidegoian  - Goiatz</lugar_es>
+		<lugar_eu>Bidegoian  - Goiatz</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>24</codigo_eustat>
+		<latitud>43.142086</latitud>
+		<longitud>-2.167475</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>24/08/2017</fecha>
+		<descripcion_es>San Bartolomé</descripcion_es>
+		<descripcion_eu>San Bartolome</descripcion_eu>
+		<lugar_es>Bidegoian - Bidania</lugar_es>
+		<lugar_eu>Bidegoian - Bidania</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>24</codigo_eustat>
+		<latitud>43.139399</latitud>
+		<longitud>-2.159979</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>16/08/2017</fecha>
+		<descripcion_es>San Roque</descripcion_es>
+		<descripcion_eu>San Roke</descripcion_eu>
+		<lugar_es>Deba</lugar_es>
+		<lugar_eu>Deba</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>29</codigo_eustat>
+		<latitud>43.295562</latitud>
+		<longitud>-2.353894</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>20/01/2017</fecha>
+		<descripcion_es>San Sebastián</descripcion_es>
+		<descripcion_eu>San Sebastian</descripcion_eu>
+		<lugar_es>Donostia-San Sebastian</lugar_es>
+		<lugar_eu>Donostia-San Sebastian</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>69</codigo_eustat>
+		<latitud>43.321874</latitud>
+		<longitud>-1.98552</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>24/06/2017</fecha>
+		<descripcion_es>San Juan</descripcion_es>
+		<descripcion_eu>San Juan</descripcion_eu>
+		<lugar_es>Eibar</lugar_es>
+		<lugar_eu>Eibar</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>30</codigo_eustat>
+		<latitud>43.18418</latitud>
+		<longitud>-2.473289</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>08/09/2017</fecha>
+		<descripcion_es>La Natividad de la Virgen</descripcion_es>
+		<descripcion_eu>Birjinaren jaiotza</descripcion_eu>
+		<lugar_es>Elduaien</lugar_es>
+		<lugar_eu>Elduaien</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>31</codigo_eustat>
+		<latitud>43.140712</latitud>
+		<longitud>-2.000488</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>30/06/2017</fecha>
+		<descripcion_es>Viernes fiestas Feria Principal</descripcion_es>
+		<descripcion_eu>Ferixa Nagusiko jaietako ostirala</descripcion_eu>
+		<lugar_es>Elgeta</lugar_es>
+		<lugar_eu>Elgeta</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>33</codigo_eustat>
+		<latitud>43.136572</latitud>
+		<longitud>-2.487392</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>17/01/2017</fecha>
+		<descripcion_es>San Antón</descripcion_es>
+		<descripcion_eu>San Anton</descripcion_eu>
+		<lugar_es>Elgoibar</lugar_es>
+		<lugar_eu>Elgoibar</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>32</codigo_eustat>
+		<latitud>43.215187</latitud>
+		<longitud>-2.415702</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>22/07/2017</fecha>
+		<descripcion_es>María Magdalena</descripcion_es>
+		<descripcion_eu>Madalena</descripcion_eu>
+		<lugar_es>Errenteria</lugar_es>
+		<lugar_eu>Errenteria</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>67</codigo_eustat>
+		<latitud>43.312752</latitud>
+		<longitud>-1.899633</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>13/06/2017</fecha>
+		<descripcion_es>Fiesta local</descripcion_es>
+		<descripcion_eu>Tokiko jaieguna</descripcion_eu>
+		<lugar_es>Errezil</lugar_es>
+		<lugar_eu>Errezil</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>66</codigo_eustat>
+		<latitud>43.164674</latitud>
+		<longitud>-2.173594</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>29/06/2017</fecha>
+		<descripcion_es>San Pedro</descripcion_es>
+		<descripcion_eu>San Pedro</descripcion_eu>
+		<lugar_es>Eskoriatza</lugar_es>
+		<lugar_eu>Eskoriatza</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>34</codigo_eustat>
+		<latitud>43.017074</latitud>
+		<longitud>-2.52698</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>08/05/2017</fecha>
+		<descripcion_es>Aparicion de S. Miguel</descripcion_es>
+		<descripcion_eu>S. Migelen Ageraldia</descripcion_eu>
+		<lugar_es>Ezkio-Itsaso - Ezkio</lugar_es>
+		<lugar_eu>Ezkio-Itsaso - Ezkio</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>35</codigo_eustat>
+		<latitud>43.080484</latitud>
+		<longitud>-2.275421</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>29/06/2017</fecha>
+		<descripcion_es>San Pedro</descripcion_es>
+		<descripcion_eu>San Pedro</descripcion_eu>
+		<lugar_es>Ezkio-Itsaso - Sta. Lutzi-Anduaga</lugar_es>
+		<lugar_eu>Ezkio-Itsaso - Sta. Lutzi-Anduaga</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>35</codigo_eustat>
+		<latitud>43.064321</latitud>
+		<longitud>-2.274735</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>22/07/2017</fecha>
+		<descripcion_es>Maria Madalena</descripcion_es>
+		<descripcion_eu>Madalena</descripcion_eu>
+		<lugar_es>Ezkio-Itsaso - Alegia </lugar_es>
+		<lugar_eu>Ezkio-Itsaso - Alegia</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>35</codigo_eustat>
+		<latitud>43.058055</latitud>
+		<longitud>-2.268215</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>05/02/2017</fecha>
+		<descripcion_es>Santa Ageda</descripcion_es>
+		<descripcion_eu>Ageda Donea</descripcion_eu>
+		<lugar_es>Ezkio-Itsaso - Matxinbenta </lugar_es>
+		<lugar_eu>Ezkio-Itsaso - Matxinbenta</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>35</codigo_eustat>
+		<latitud>43.072544</latitud>
+		<longitud>-2.257418</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>16/08/2017</fecha>
+		<descripcion_es>San Roque</descripcion_es>
+		<descripcion_eu>San Roke</descripcion_eu>
+		<lugar_es>Gabiria</lugar_es>
+		<lugar_eu>Gabiria</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>38</codigo_eustat>
+		<latitud>43.049689</latitud>
+		<longitud>-2.279856</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>29/09/2017</fecha>
+		<descripcion_es>San Miguel</descripcion_es>
+		<descripcion_eu>San Migel</descripcion_eu>
+		<lugar_es>Gaintza</lugar_es>
+		<lugar_eu>Gaintza</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>37</codigo_eustat>
+		<latitud>43.052629</latitud>
+		<longitud>-2.13237</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>14/08/2017</fecha>
+		<descripcion_es>La Virgen</descripcion_es>
+		<descripcion_eu>Andra Mari</descripcion_eu>
+		<lugar_es>Gaztelu</lugar_es>
+		<lugar_eu>Gaztelu</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>907</codigo_eustat>
+		<latitud>43.116579</latitud>
+		<longitud>-2.022278</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>07/08/2017</fecha>
+		<descripcion_es>San Salvador</descripcion_es>
+		<descripcion_eu>Salbatore Deuna</descripcion_eu>
+		<lugar_es>Getaria</lugar_es>
+		<lugar_eu>Getaria</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>39</codigo_eustat>
+		<latitud>43.303261</latitud>
+		<longitud>-2.204363</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>24/06/2017</fecha>
+		<descripcion_es>San Juan</descripcion_es>
+		<descripcion_eu>San Juan</descripcion_eu>
+		<lugar_es>Hernani</lugar_es>
+		<lugar_eu>Hernani</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>40</codigo_eustat>
+		<latitud>43.267549</latitud>
+		<longitud>-1.975814</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>16/08/2017</fecha>
+		<descripcion_es>La Virgen</descripcion_es>
+		<descripcion_eu>Andra Mari</descripcion_eu>
+		<lugar_es>Hernialde</lugar_es>
+		<lugar_eu>Hernialde</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>41</codigo_eustat>
+		<latitud>43.154467</latitud>
+		<longitud>-2.085025</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>08/09/2017</fecha>
+		<descripcion_es>Virgen de Guadalupe</descripcion_es>
+		<descripcion_eu>Ama Guadalupekoa</descripcion_eu>
+		<lugar_es>Hondarribia</lugar_es>
+		<lugar_eu>Hondarribia</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>36</codigo_eustat>
+		<latitud>43.362531</latitud>
+		<longitud>-1.791498</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>24/08/2017</fecha>
+		<descripcion_es>San Bartolomé</descripcion_es>
+		<descripcion_eu>San Bartolome</descripcion_eu>
+		<lugar_es>Ibarra</lugar_es>
+		<lugar_eu>Ibarra</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>42</codigo_eustat>
+		<latitud>43.132345</latitud>
+		<longitud>-2.065462</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>03/02/2017</fecha>
+		<descripcion_es>San Blas</descripcion_es>
+		<descripcion_eu>San Blas biharamuna</descripcion_eu>
+		<lugar_es>Idiazabal</lugar_es>
+		<lugar_eu>Idiazabal</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>43</codigo_eustat>
+		<latitud>43.011782</latitud>
+		<longitud>-2.234214</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>10/08/2017</fecha>
+		<descripcion_es>San Lorenzo</descripcion_es>
+		<descripcion_eu>San Lorentzo</descripcion_eu>
+		<lugar_es>Ikaztegieta</lugar_es>
+		<lugar_eu>Ikaztegieta</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>44</codigo_eustat>
+		<latitud>43.09496</latitud>
+		<longitud>-2.1239</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>30/06/2017</fecha>
+		<descripcion_es>San Marcial</descripcion_es>
+		<descripcion_eu>San Martzial</descripcion_eu>
+		<lugar_es>Irun</lugar_es>
+		<lugar_eu>Irun</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>45</codigo_eustat>
+		<latitud>43.338233</latitud>
+		<longitud>-1.789272</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>29/09/2017</fecha>
+		<descripcion_es>San Miguel</descripcion_es>
+		<descripcion_eu>San Migel</descripcion_eu>
+		<lugar_es>Irura</lugar_es>
+		<lugar_eu>Irura</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>46</codigo_eustat>
+		<latitud>43.165688</latitud>
+		<longitud>-2.069616</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>22/09/2017</fecha>
+		<descripcion_es>Fiestas de septiembre</descripcion_es>
+		<descripcion_eu>Iraileko jaiak</descripcion_eu>
+		<lugar_es>Itsasondo</lugar_es>
+		<lugar_eu>Itsasondo</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>47</codigo_eustat>
+		<latitud>43.066932</latitud>
+		<longitud>-2.167393</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>03/08/2017</fecha>
+		<descripcion_es>San Esteban</descripcion_es>
+		<descripcion_eu>San Esteban</descripcion_eu>
+		<lugar_es>Larraul</lugar_es>
+		<lugar_eu>Larraul</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>48</codigo_eustat>
+		<latitud>43.187739</latitud>
+		<longitud>-2.102534</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>29/06/2017</fecha>
+		<descripcion_es>San Pedro </descripcion_es>
+		<descripcion_eu>San Pedro </descripcion_eu>
+		<lugar_es>Lasarte</lugar_es>
+		<lugar_eu>Lasarte</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>902</codigo_eustat>
+		<latitud>43.267455</latitud>
+		<longitud>-2.020179</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>28/04/2017</fecha>
+		<descripcion_es>San Prudencio</descripcion_es>
+		<descripcion_eu>San Prudentzio</descripcion_eu>
+		<lugar_es>Lazkao</lugar_es>
+		<lugar_eu>Lazkao</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>49</codigo_eustat>
+		<latitud>43.034324</latitud>
+		<longitud>-2.187379</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>29/06/2017</fecha>
+		<descripcion_es>San Pedro </descripcion_es>
+		<descripcion_eu>San Pedro </descripcion_eu>
+		<lugar_es>Leaburu</lugar_es>
+		<lugar_eu>Leaburu</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>50</codigo_eustat>
+		<latitud>43.124984</latitud>
+		<longitud>-2.052106</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>03/05/2017</fecha>
+		<descripcion_es>Santa Cruz</descripcion_es>
+		<descripcion_eu>Santikutz</descripcion_eu>
+		<lugar_es>Legazpi</lugar_es>
+		<lugar_eu>Legazpi</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>51</codigo_eustat>
+		<latitud>43.054361</latitud>
+		<longitud>-2.333641</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>25/05/2017</fecha>
+		<descripcion_es>La Ascensión</descripcion_es>
+		<descripcion_eu>Azintzio eguna</descripcion_eu>
+		<lugar_es>Legorreta</lugar_es>
+		<lugar_eu>Legorreta</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>52</codigo_eustat>
+		<latitud>43.085794</latitud>
+		<longitud>-2.150909</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>08/09/2017</fecha>
+		<descripcion_es>Virgen de Dorleta</descripcion_es>
+		<descripcion_eu>Dorletako Ama Birjina</descripcion_eu>
+		<lugar_es>Leintz-Gatzaga</lugar_es>
+		<lugar_eu>Leintz-Gatzaga</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>68</codigo_eustat>
+		<latitud>42.987112</latitud>
+		<longitud>-2.568626</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>14/09/2017</fecha>
+		<descripcion_es>Exaltación de la Sta Cruz</descripcion_es>
+		<descripcion_eu>Gurutze Santuaren Gorespena</descripcion_eu>
+		<lugar_es>Lezo</lugar_es>
+		<lugar_eu>Lezo</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>53</codigo_eustat>
+		<latitud>43.321127</latitud>
+		<longitud>-1.898775</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>08/09/2017</fecha>
+		<descripcion_es>Fiesta local</descripcion_es>
+		<descripcion_eu>Tokiko jaieguna</descripcion_eu>
+		<lugar_es>Lizartza</lugar_es>
+		<lugar_eu>Lizartza</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>54</codigo_eustat>
+		<latitud>43.10372</latitud>
+		<longitud>-2.034254</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>26/07/2017</fecha>
+		<descripcion_es>Santa Ana</descripcion_es>
+		<descripcion_eu>Santa Ana</descripcion_eu>
+		<lugar_es>Mendaro</lugar_es>
+		<lugar_eu>Mendaro</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>901</codigo_eustat>
+		<latitud>43.264167</latitud>
+		<longitud>-2.3755</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>29/06/2017</fecha>
+		<descripcion_es>San Pedro</descripcion_es>
+		<descripcion_eu>San Pedro</descripcion_eu>
+		<lugar_es>Mutiloa</lugar_es>
+		<lugar_eu>Mutiloa</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>57</codigo_eustat>
+		<latitud>43.02238</latitud>
+		<longitud>-2.272826</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>14/09/2017</fecha>
+		<descripcion_es>Maria Madalena</descripcion_es>
+		<descripcion_eu>Madalena</descripcion_eu>
+		<lugar_es>Mutriku</lugar_es>
+		<lugar_eu>Mutriku</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>56</codigo_eustat>
+		<latitud>43.307069</latitud>
+		<longitud>-2.385083</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>03/08/2017</fecha>
+		<descripcion_es>San Esteban</descripcion_es>
+		<descripcion_eu>Doneztebe</descripcion_eu>
+		<lugar_es>Oiartzun</lugar_es>
+		<lugar_eu>Oiartzun</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>63</codigo_eustat>
+		<latitud>43.299282</latitud>
+		<longitud>-1.857874</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>24/06/2017</fecha>
+		<descripcion_es>San Juan</descripcion_es>
+		<descripcion_eu>San Juan</descripcion_eu>
+		<lugar_es>Olaberria</lugar_es>
+		<lugar_eu>Olaberria</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>58</codigo_eustat>
+		<latitud>43.027075</latitud>
+		<longitud>-2.203089</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>29/09/2017</fecha>
+		<descripcion_es>San Miguel</descripcion_es>
+		<descripcion_eu>San Migel</descripcion_eu>
+		<lugar_es>Oñati</lugar_es>
+		<lugar_eu>Oñati</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>59</codigo_eustat>
+		<latitud>43.032888</latitud>
+		<longitud>-2.411348</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>26/07/2017</fecha>
+		<descripcion_es>Santa Ana</descripcion_es>
+		<descripcion_eu>Santa Ana</descripcion_eu>
+		<lugar_es>Ordizia</lugar_es>
+		<lugar_eu>Ordizia</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>76</codigo_eustat>
+		<latitud>43.054198</latitud>
+		<longitud>-2.178115</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>20/01/2017</fecha>
+		<descripcion_es>San Sebastián</descripcion_es>
+		<descripcion_eu>San Sebastian</descripcion_eu>
+		<lugar_es>Orendain</lugar_es>
+		<lugar_eu>Orendain</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>905</codigo_eustat>
+		<latitud>43.079721</latitud>
+		<longitud>-2.11429</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>03/05/2017</fecha>
+		<descripcion_es>Santa Cruz</descripcion_es>
+		<descripcion_eu>Santa Kruz</descripcion_eu>
+		<lugar_es>Orexa</lugar_es>
+		<lugar_eu>Orexa</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>60</codigo_eustat>
+		<latitud>43.093881</latitud>
+		<longitud>-2.011392</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>29/06/2017</fecha>
+		<descripcion_es>San Pedro</descripcion_es>
+		<descripcion_eu>San Pedro</descripcion_eu>
+		<lugar_es>Orio</lugar_es>
+		<lugar_eu>Orio</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>61</codigo_eustat>
+		<latitud>43.278323</latitud>
+		<longitud>-2.126597</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>30/11/2017</fecha>
+		<descripcion_es>San Andrés</descripcion_es>
+		<descripcion_eu>San Andres</descripcion_eu>
+		<lugar_es>Ormaiztegi</lugar_es>
+		<lugar_eu>Ormaiztegi</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>62</codigo_eustat>
+		<latitud>43.042735</latitud>
+		<longitud>-2.255848</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>07/07/2017</fecha>
+		<descripcion_es>San Fermín</descripcion_es>
+		<descripcion_eu>San Fermin</descripcion_eu>
+		<lugar_es>Pasai Antxo</lugar_es>
+		<lugar_eu>Pasai Antxo</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>64</codigo_eustat>
+		<latitud>43.317534</latitud>
+		<longitud>-1.917562</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>24/06/2017</fecha>
+		<descripcion_es>San Juan</descripcion_es>
+		<descripcion_eu>San Juan</descripcion_eu>
+		<lugar_es>Pasai Donibane</lugar_es>
+		<lugar_eu>Pasai Donibane</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>64</codigo_eustat>
+		<latitud>43.327481</latitud>
+		<longitud>-1.919883</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>29/06/2017</fecha>
+		<descripcion_es>San Pedro</descripcion_es>
+		<descripcion_eu>San Pedro</descripcion_eu>
+		<lugar_es>Pasai San Pedro</lugar_es>
+		<lugar_eu>Pasai San Pedro</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>64</codigo_eustat>
+		<latitud>43.323348</latitud>
+		<longitud>-1.930432</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>17/07/2017</fecha>
+		<descripcion_es>Siguiente al Carmen</descripcion_es>
+		<descripcion_eu>Karmen biharamuna</descripcion_eu>
+		<lugar_es>Trintxerpe</lugar_es>
+		<lugar_eu>Trintxerpe</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>64</codigo_eustat>
+		<latitud>43.326138</latitud>
+		<longitud>-1.931587</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>24/06/2017</fecha>
+		<descripcion_es>San Juan</descripcion_es>
+		<descripcion_eu>San Juan</descripcion_eu>
+		<lugar_es>Segura</lugar_es>
+		<lugar_eu>Segura</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>70</codigo_eustat>
+		<latitud>43.009216</latitud>
+		<longitud>-2.252519</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>26/07/2017</fecha>
+		<descripcion_es>Santa Ana</descripcion_es>
+		<descripcion_eu>Santa Ana</descripcion_eu>
+		<lugar_es>Soraluze - P. De Las Armas</lugar_es>
+		<lugar_eu>Soraluze - P. De Las Armas</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>65</codigo_eustat>
+		<latitud>43.17543</latitud>
+		<longitud>-2.412494</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>24/06/2017</fecha>
+		<descripcion_es>San Juan</descripcion_es>
+		<descripcion_eu>San Juan</descripcion_eu>
+		<lugar_es>Tolosa</lugar_es>
+		<lugar_eu>Tolosa</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>71</codigo_eustat>
+		<latitud>43.136978</latitud>
+		<longitud>-2.073914</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>29/09/2017</fecha>
+		<descripcion_es>San Miguel</descripcion_es>
+		<descripcion_eu>San Migel</descripcion_eu>
+		<lugar_es>Urnieta</lugar_es>
+		<lugar_eu>Urnieta</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>72</codigo_eustat>
+		<latitud>43.2482</latitud>
+		<longitud>-1.990517</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>18/09/2017</fecha>
+		<descripcion_es>Santa Anastasia</descripcion_es>
+		<descripcion_eu>Santa Anastasia</descripcion_eu>
+		<lugar_es>Urretxu</lugar_es>
+		<lugar_eu>Urretxu</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>77</codigo_eustat>
+		<latitud>43.092282</latitud>
+		<longitud>-2.314383</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>30/06/2017</fecha>
+		<descripcion_es>Viernes anterior a Santa Isabel</descripcion_es>
+		<descripcion_eu>Santa Ixabel aurreko ostirala</descripcion_eu>
+		<lugar_es>Usurbil</lugar_es>
+		<lugar_eu>Usurbil</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>73</codigo_eustat>
+		<latitud>43.271382</latitud>
+		<longitud>-2.049934</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>26/07/2017</fecha>
+		<descripcion_es>Santa Ana</descripcion_es>
+		<descripcion_eu>Santa Ana</descripcion_eu>
+		<lugar_es>Villabona</lugar_es>
+		<lugar_eu>Billabona</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>75</codigo_eustat>
+		<latitud>43.189944</latitud>
+		<longitud>-2.052453</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>06/10/2017</fecha>
+		<descripcion_es>Santa Fe</descripcion_es>
+		<descripcion_eu>Santa Fe</descripcion_eu>
+		<lugar_es>Zaldibia</lugar_es>
+		<lugar_eu>Zaldibia</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>78</codigo_eustat>
+		<latitud>43.037964</latitud>
+		<longitud>-2.150894</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>26/06/2017</fecha>
+		<descripcion_es>San Pelayo</descripcion_es>
+		<descripcion_eu>San Pelaio</descripcion_eu>
+		<lugar_es>Zarautz</lugar_es>
+		<lugar_eu>Zarautz</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>79</codigo_eustat>
+		<latitud>43.280364</latitud>
+		<longitud>-2.171588</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>05/06/2017</fecha>
+		<descripcion_es>Lunes de Pentecostés</descripcion_es>
+		<descripcion_eu>Mendekoste astelehena</descripcion_eu>
+		<lugar_es>Zegama</lugar_es>
+		<lugar_eu>Zegama</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>25</codigo_eustat>
+		<latitud>42.975677</latitud>
+		<longitud>-2.290072</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>16/08/2017</fecha>
+		<descripcion_es>San Roque</descripcion_es>
+		<descripcion_eu>San Roke</descripcion_eu>
+		<lugar_es>Zerain</lugar_es>
+		<lugar_eu>Zerain</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>26</codigo_eustat>
+		<latitud>43.012119</latitud>
+		<longitud>-2.274118</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>08/09/2017</fecha>
+		<descripcion_es>Natividad de la Virgen</descripcion_es>
+		<descripcion_eu>Birjinaren jaiotza</descripcion_eu>
+		<lugar_es>Zestoa</lugar_es>
+		<lugar_eu>Zestoa</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>27</codigo_eustat>
+		<latitud>43.239442</latitud>
+		<longitud>-2.258113</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>08/09/2017</fecha>
+		<descripcion_es>Fiesta local</descripcion_es>
+		<descripcion_eu>Tokiko jaieguna</descripcion_eu>
+		<lugar_es>Zizurkil</lugar_es>
+		<lugar_eu>Zizurkil</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>28</codigo_eustat>
+		<latitud>43.199523</latitud>
+		<longitud>-2.074073</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>29/06/2017</fecha>
+		<descripcion_es>San Pedro</descripcion_es>
+		<descripcion_eu>San Pedro</descripcion_eu>
+		<lugar_es>Zumaia</lugar_es>
+		<lugar_eu>Zumaia</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>81</codigo_eustat>
+		<latitud>43.297258</latitud>
+		<longitud>-2.256848</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>03/07/2017</fecha>
+		<descripcion_es>Santa Isabel</descripcion_es>
+		<descripcion_eu>Santa Isabel</descripcion_eu>
+		<lugar_es>Zumarraga</lugar_es>
+		<lugar_eu>Zumarraga</lugar_eu>
+		<territorio>Gipuzkoa</territorio>
+		<codigo_eustat>80</codigo_eustat>
+		<latitud>43.090476</latitud>
+		<longitud>-2.31322</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>03/02/2017</fecha>
+		<descripcion_es>San Blas</descripcion_es>
+		<descripcion_eu>Done Blas</descripcion_eu>
+		<lugar_es>Alegría-Dulantzi</lugar_es>
+		<lugar_eu>Alegria-Dulantzi</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>2</codigo_eustat>
+		<latitud>42.841035</latitud>
+		<longitud>-2.512684</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>16/08/2017</fecha>
+		<descripcion_es>San Roque</descripcion_es>
+		<descripcion_eu>San Roke</descripcion_eu>
+		<lugar_es>Amurrio</lugar_es>
+		<lugar_eu>Amurrio</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>1</codigo_eustat>
+		<latitud>43.057875</latitud>
+		<longitud>-2.998775</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>10/07/2017</fecha>
+		<descripcion_es>San Cristóbal</descripcion_es>
+		<descripcion_eu>Done Kristobal</descripcion_eu>
+		<lugar_es>Añana</lugar_es>
+		<lugar_eu>Añana</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>49</codigo_eustat>
+		<latitud>42.802352</latitud>
+		<longitud>-2.982607</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>03/07/2017</fecha>
+		<descripcion_es>San Martín</descripcion_es>
+		<descripcion_eu>San Martin</descripcion_eu>
+		<lugar_es>Aramaio</lugar_es>
+		<lugar_eu>Aramaio</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>3</codigo_eustat>
+		<latitud>43.054</latitud>
+		<longitud>-2.566</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>11/11/2017</fecha>
+		<descripcion_es>San Martin de Tours</descripcion_es>
+		<descripcion_eu>San Martin Toursekoa</descripcion_eu>
+		<lugar_es>Armiñón</lugar_es>
+		<lugar_eu>Armiñón</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>6</codigo_eustat>
+		<latitud>42.723045</latitud>
+		<longitud>-2.872574</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>19/06/2017</fecha>
+		<descripcion_es>San Adrián</descripcion_es>
+		<descripcion_eu>Done Adrian</descripcion_eu>
+		<lugar_es>Arraia-Maeztu</lugar_es>
+		<lugar_eu>Arraia-Maeztu</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>37</codigo_eustat>
+		<latitud>42.739815</latitud>
+		<longitud>-2.44598</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>26/12/2017</fecha>
+		<descripcion_es>San Esteban</descripcion_es>
+		<descripcion_eu>Done Esteban</descripcion_eu>
+		<lugar_es>Arrazua-Ubarrundia</lugar_es>
+		<lugar_eu>Arrazua-Ubarrundia</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>8</codigo_eustat>
+		<latitud>42.890278</latitud>
+		<longitud>-2.639167</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>08/09/2017</fecha>
+		<descripcion_es>Virgen de la Encina</descripcion_es>
+		<descripcion_eu>Arteko Andra Maria</descripcion_eu>
+		<lugar_es>Artziniega</lugar_es>
+		<lugar_eu>Artziniega</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>4</codigo_eustat>
+		<latitud>43.122201</latitud>
+		<longitud>-3.128209</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>29/06/2017</fecha>
+		<descripcion_es>San Pedro</descripcion_es>
+		<descripcion_eu>Done Petri</descripcion_eu>
+		<lugar_es>Asparrena</lugar_es>
+		<lugar_eu>Asparrena</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>9</codigo_eustat>
+		<latitud>42.895667</latitud>
+		<longitud>-2.321</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>25/07/2017</fecha>
+		<descripcion_es>Santiago</descripcion_es>
+		<descripcion_eu>Done Jakue</descripcion_eu>
+		<lugar_es>Ayala - Agiñaga</lugar_es>
+		<lugar_eu>Aiara - Agiñaga</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>10</codigo_eustat>
+		<latitud>43.03508</latitud>
+		<longitud>-3.071144</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>22/05/2017</fecha>
+		<descripcion_es>San Ramiro</descripcion_es>
+		<descripcion_eu>Done Ramiro</descripcion_eu>
+		<lugar_es>Ayala - Añes</lugar_es>
+		<lugar_eu>Aiara - Añes</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>10</codigo_eustat>
+		<latitud>43.058414</latitud>
+		<longitud>-3.132924</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>29/09/2017</fecha>
+		<descripcion_es>San Miguel</descripcion_es>
+		<descripcion_eu>Done Mikel</descripcion_eu>
+		<lugar_es>Ayala - Beotegi</lugar_es>
+		<lugar_eu>Aiara - Beotegi</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>10</codigo_eustat>
+		<latitud>43.08866</latitud>
+		<longitud>-3.075259</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>29/09/2017</fecha>
+		<descripcion_es>San Miguel</descripcion_es>
+		<descripcion_eu>Done Mikel</descripcion_eu>
+		<lugar_es>Ayala - Costera</lugar_es>
+		<lugar_eu>Aiara - Opellora</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>10</codigo_eustat>
+		<latitud>43.102599</latitud>
+		<longitud>-3.103772</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>03/05/2017</fecha>
+		<descripcion_es>La Cruz</descripcion_es>
+		<descripcion_eu>Gurutzea</descripcion_eu>
+		<lugar_es>Ayala - Erbi</lugar_es>
+		<lugar_eu>Aiara - Erbi</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>10</codigo_eustat>
+		<latitud>43.074143</latitud>
+		<longitud>-3.111819</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>08/05/2017</fecha>
+		<descripcion_es>Ntra. Sra. de la Antigua </descripcion_es>
+		<descripcion_eu>Antiguako Ama </descripcion_eu>
+		<lugar_es>Ayala - Etxegoien</lugar_es>
+		<lugar_eu>Aiara - Etxegoien</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>10</codigo_eustat>
+		<latitud>43.043726</latitud>
+		<longitud>-3.02107</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>07/01/2017</fecha>
+		<descripcion_es>San Julián</descripcion_es>
+		<descripcion_eu>Done Julian</descripcion_eu>
+		<lugar_es>Ayala - Izoria</lugar_es>
+		<lugar_eu>Aiara - Izoria</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>10</codigo_eustat>
+		<latitud>43.061416</latitud>
+		<longitud>-3.036324</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>09/12/2017</fecha>
+		<descripcion_es>La Inmaculada</descripcion_es>
+		<descripcion_eu>Sortzez Garbiaren Eguna</descripcion_eu>
+		<lugar_es>Ayala - Lejarzo</lugar_es>
+		<lugar_eu>Aiara - Lejarzo</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>10</codigo_eustat>
+		<latitud>43.060158</latitud>
+		<longitud>-3.122923</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>16/08/2017</fecha>
+		<descripcion_es>La Asunción</descripcion_es>
+		<descripcion_eu>Jasokundearen Eguna</descripcion_eu>
+		<lugar_es>Ayala - Lujo</lugar_es>
+		<lugar_eu>Aiara - Luxo</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>10</codigo_eustat>
+		<latitud>43.077952</latitud>
+		<longitud>-3.096407</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>22/07/2017</fecha>
+		<descripcion_es>La Magdalena</descripcion_es>
+		<descripcion_eu>Magdalena Eguna</descripcion_eu>
+		<lugar_es>Ayala - Luiaondo</lugar_es>
+		<lugar_eu>Aiara - Luiaondo</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>10</codigo_eustat>
+		<latitud>43.102723</latitud>
+		<longitud>-2.997211</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>25/07/2017</fecha>
+		<descripcion_es>Santiago</descripcion_es>
+		<descripcion_eu>Done Jakue</descripcion_eu>
+		<lugar_es>Ayala - Llanteno</lugar_es>
+		<lugar_eu>Aiara - Llanteno</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>10</codigo_eustat>
+		<latitud>43.091803</latitud>
+		<longitud>-3.099984</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>23/11/2017</fecha>
+		<descripcion_es>San Clemente</descripcion_es>
+		<descripcion_eu>Done Klemente</descripcion_eu>
+		<lugar_es>Ayala - Madaria</lugar_es>
+		<lugar_eu>Aiara - Madaria</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>10</codigo_eustat>
+		<latitud>43.04389</latitud>
+		<longitud>-3.085953</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>17/01/2017</fecha>
+		<descripcion_es>San Antón</descripcion_es>
+		<descripcion_eu>Done Anton</descripcion_eu>
+		<lugar_es>Ayala - Maroño</lugar_es>
+		<lugar_eu>Aiara - Maroño</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>10</codigo_eustat>
+		<latitud>43.055065</latitud>
+		<longitud>-3.05901</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>29/06/2017</fecha>
+		<descripcion_es>San Pedro</descripcion_es>
+		<descripcion_eu>Done Petri</descripcion_eu>
+		<lugar_es>Ayala - Menagarai</lugar_es>
+		<lugar_eu>Aiara - Menagarai</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>10</codigo_eustat>
+		<latitud>43.096299</latitud>
+		<longitud>-3.072769</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>25/04/2017</fecha>
+		<descripcion_es>San Marcos</descripcion_es>
+		<descripcion_eu>Done Marko</descripcion_eu>
+		<lugar_es>Ayala - Menoio</lugar_es>
+		<lugar_eu>Aiara - Menoio</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>10</codigo_eustat>
+		<latitud>43.069585</latitud>
+		<longitud>-3.072926</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>24/06/2017</fecha>
+		<descripcion_es>San Juan</descripcion_es>
+		<descripcion_eu>Done Joane</descripcion_eu>
+		<lugar_es>Ayala - Murga</lugar_es>
+		<lugar_eu>Aiara - Murga</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>10</codigo_eustat>
+		<latitud>43.075372</latitud>
+		<longitud>-3.02559</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>24/01/2017</fecha>
+		<descripcion_es>San Babilás</descripcion_es>
+		<descripcion_eu>Done Babilas</descripcion_eu>
+		<lugar_es>Ayala - Olabezar</lugar_es>
+		<lugar_eu>Aiara - Olabezar</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>10</codigo_eustat>
+		<latitud>43.069997</latitud>
+		<longitud>-3.014813</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>09/10/2017</fecha>
+		<descripcion_es>Ntra. Sra. del Rosario </descripcion_es>
+		<descripcion_eu>Errosarioko Andra Maria</descripcion_eu>
+		<lugar_es>Ayala - Ozeka</lugar_es>
+		<lugar_eu>Aiara - Ozeka</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>10</codigo_eustat>
+		<latitud>43.070824</latitud>
+		<longitud>-3.090905</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>05/08/2017</fecha>
+		<descripcion_es>Las Nieves</descripcion_es>
+		<descripcion_eu>Elurretako Andra Maria</descripcion_eu>
+		<lugar_es>Ayala - Quejana</lugar_es>
+		<lugar_eu>Aiara - Kexaa</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>10</codigo_eustat>
+		<latitud>43.081485</latitud>
+		<longitud>-3.063094</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>15/05/2017</fecha>
+		<descripcion_es>San Isidro</descripcion_es>
+		<descripcion_eu>Done Isidro</descripcion_eu>
+		<lugar_es>Ayala - Respaldiza</lugar_es>
+		<lugar_eu>Aiara - Arespalditza</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>10</codigo_eustat>
+		<latitud>43.078065</latitud>
+		<longitud>-3.042931</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>22/07/2017</fecha>
+		<descripcion_es>La Magdalena</descripcion_es>
+		<descripcion_eu>Magdalena Eguna</descripcion_eu>
+		<lugar_es>Ayala - Retes de Llanteno</lugar_es>
+		<lugar_eu>Aiara - Retes de Llanteno</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>10</codigo_eustat>
+		<latitud>43.091803</latitud>
+		<longitud>-3.099984</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>18/07/2017</fecha>
+		<descripcion_es>Santa Marina</descripcion_es>
+		<descripcion_eu>Dona Marina</descripcion_eu>
+		<lugar_es>Ayala - Salmantón</lugar_es>
+		<lugar_eu>Aiara - Salmanton</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>10</codigo_eustat>
+		<latitud>43.052629</latitud>
+		<longitud>-3.088347</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>30/08/2017</fecha>
+		<descripcion_es>San Emeterio</descripcion_es>
+		<descripcion_eu>Done Meteri</descripcion_eu>
+		<lugar_es>Ayala - Sojo</lugar_es>
+		<lugar_eu>Aiara - Sojo</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>10</codigo_eustat>
+		<latitud>43.09073</latitud>
+		<longitud>-3.122839</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>18/07/2017</fecha>
+		<descripcion_es>Santa Marina </descripcion_es>
+		<descripcion_eu>Dona Marina</descripcion_eu>
+		<lugar_es>Ayala - Zuaza</lugar_es>
+		<lugar_eu>Aiara - Zuaza</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>10</codigo_eustat>
+		<latitud>43.099672</latitud>
+		<longitud>-3.049447</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>10/07/2017</fecha>
+		<descripcion_es>San Cristóbal</descripcion_es>
+		<descripcion_eu>Done Kristobal</descripcion_eu>
+		<lugar_es>Baños de Ebro</lugar_es>
+		<lugar_eu>Mañueta</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>11</codigo_eustat>
+		<latitud>42.53029</latitud>
+		<longitud>-2.679144</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>26/06/2017</fecha>
+		<descripcion_es>San Juan</descripcion_es>
+		<descripcion_eu>Done Joane</descripcion_eu>
+		<lugar_es>Barrundia</lugar_es>
+		<lugar_eu>Barrundia</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>13</codigo_eustat>
+		<latitud>42.916667</latitud>
+		<longitud>-2.491667</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>08/09/2017</fecha>
+		<descripcion_es>La Natividad</descripcion_es>
+		<descripcion_eu>Jaiotzaren eguna</descripcion_eu>
+		<lugar_es>Berantevilla</lugar_es>
+		<lugar_eu>Berantevilla</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>14</codigo_eustat>
+		<latitud>42.68245</latitud>
+		<longitud>-2.860401</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>08/09/2017</fecha>
+		<descripcion_es>Santa María Magdalena</descripcion_es>
+		<descripcion_eu>Santa Maria</descripcion_eu>
+		<lugar_es>Bernedo</lugar_es>
+		<lugar_eu>Bernedo</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>16</codigo_eustat>
+		<latitud>42.626684</latitud>
+		<longitud>-2.497532</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>15/05/2017</fecha>
+		<descripcion_es>San Isidro</descripcion_es>
+		<descripcion_eu>Done Isidro</descripcion_eu>
+		<lugar_es>Campezo</lugar_es>
+		<lugar_eu>Kanpezu</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>17</codigo_eustat>
+		<latitud>42.691944</latitud>
+		<longitud>-2.37</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>08/09/2017</fecha>
+		<descripcion_es>La Virgen</descripcion_es>
+		<descripcion_eu>Andra maria</descripcion_eu>
+		<lugar_es>Kripan</lugar_es>
+		<lugar_eu>Kripan</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>19</codigo_eustat>
+		<latitud>42.591666</latitud>
+		<longitud>-2.516079</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>23/06/2017</fecha>
+		<descripcion_es>Fiesta local</descripcion_es>
+		<descripcion_eu>Tokiko jaieguna</descripcion_eu>
+		<lugar_es>Kuartango</lugar_es>
+		<lugar_eu>Kuartango</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>20</codigo_eustat>
+		<latitud>42.871389</latitud>
+		<longitud>-2.885556</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>29/06/2017</fecha>
+		<descripcion_es>San Pedro</descripcion_es>
+		<descripcion_eu>San Pedro</descripcion_eu>
+		<lugar_es>Elburgo</lugar_es>
+		<lugar_eu>Burgelu</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>21</codigo_eustat>
+		<latitud>42.849564</latitud>
+		<longitud>-2.544762</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>08/09/2017</fecha>
+		<descripcion_es>Virgen de la Plaza</descripcion_es>
+		<descripcion_eu>Plazako Andra Maria</descripcion_eu>
+		<lugar_es>Elciego</lugar_es>
+		<lugar_eu>Zieko</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>22</codigo_eustat>
+		<latitud>42.515073</latitud>
+		<longitud>-2.618277</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>16/08/2017</fecha>
+		<descripcion_es>San Roque</descripcion_es>
+		<descripcion_eu>Done Roke</descripcion_eu>
+		<lugar_es>Elvillar</lugar_es>
+		<lugar_eu>Bilar</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>23</codigo_eustat>
+		<latitud>42.570497</latitud>
+		<longitud>-2.544915</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>15/05/2017</fecha>
+		<descripcion_es>San Isidro Labrador</descripcion_es>
+		<descripcion_eu>San Isidro Nekazaria</descripcion_eu>
+		<lugar_es>Valle de Arana</lugar_es>
+		<lugar_eu>Harana</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<latitud>42.752731</latitud>
+		<longitud>-2.312303</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>29/06/2017</fecha>
+		<descripcion_es>San Pedro</descripcion_es>
+		<descripcion_eu>Done Petri</descripcion_eu>
+		<lugar_es>Valle de Arana - Alda</lugar_es>
+		<lugar_eu>Harana - Alda</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>56</codigo_eustat>
+		<latitud>42.752791</latitud>
+		<longitud>-2.33071</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>16/08/2017</fecha>
+		<descripcion_es>San Roque</descripcion_es>
+		<descripcion_eu>Done Roke</descripcion_eu>
+		<lugar_es>Valle de Arana - Contrasta</lugar_es>
+		<lugar_eu>Harana - Kontrasta</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>56</codigo_eustat>
+		<latitud>42.770305</latitud>
+		<longitud>-2.295079</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>22/01/2017</fecha>
+		<descripcion_es>San Vicente de Arana</descripcion_es>
+		<descripcion_eu>Aranako Done Bikendi</descripcion_eu>
+		<lugar_es>Valle de Arana - San Vicente De Arana</lugar_es>
+		<lugar_eu>Harana - Done Bikendi Arana</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>56</codigo_eustat>
+		<latitud>42.744143</latitud>
+		<longitud>-2.360905</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>24/06/2017</fecha>
+		<descripcion_es>San Juan</descripcion_es>
+		<descripcion_eu>Done Joane</descripcion_eu>
+		<lugar_es>Valle de Arana - Ullibarri-Arana</lugar_es>
+		<lugar_eu>Harana - Ullibarri-Harana</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>56</codigo_eustat>
+		<latitud>42.75957</latitud>
+		<longitud>-2.319402</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>17/08/2017</fecha>
+		<descripcion_es>Fiesta local</descripcion_es>
+		<descripcion_eu>Tokiko jaieguna</descripcion_eu>
+		<lugar_es>Iruña de Oca - Nanclares de la Oca</lugar_es>
+		<lugar_eu>Iruña Oka - Langraiz Oka</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>901</codigo_eustat>
+		<latitud>42.817197</latitud>
+		<longitud>-2.811518</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>20/05/2017</fecha>
+		<descripcion_es>Fiesta local</descripcion_es>
+		<descripcion_eu>Tokiko jaieguna</descripcion_eu>
+		<lugar_es>Iruña de Oca - Trespuentes</lugar_es>
+		<lugar_eu>Iruña Oka - Tresponde</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>901</codigo_eustat>
+		<latitud>42.845544</latitud>
+		<longitud>-2.789037</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>10/01/2017</fecha>
+		<descripcion_es>Fiesta local</descripcion_es>
+		<descripcion_eu>Tokiko jaieguna</descripcion_eu>
+		<lugar_es>Iruña de Oca - Villodas</lugar_es>
+		<lugar_eu>Iruña Oka - Billoda</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>901</codigo_eustat>
+		<latitud>42.83253</latitud>
+		<longitud>-2.787077</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>23/06/2017</fecha>
+		<descripcion_es>San Juan</descripcion_es>
+		<descripcion_eu>Done Joane</descripcion_eu>
+		<lugar_es>Iruraiz-Gauna</lugar_es>
+		<lugar_eu>Iruraiz-Gauna</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>27</codigo_eustat>
+		<latitud>42.822072</latitud>
+		<longitud>-2.495043</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha> noviembre/azaroa</fecha>
+		<descripcion_es>2º día de Acción de Gracias</descripcion_es>
+		<descripcion_eu>2. Esker Oneko Eguna</descripcion_eu>
+		<lugar_es>Labastida</lugar_es>
+		<lugar_eu>Labastida</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>28</codigo_eustat>
+		<latitud>42.590459</latitud>
+		<longitud>-2.792991</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>24/08/2017</fecha>
+		<descripcion_es>San Bartolomé</descripcion_es>
+		<descripcion_eu>Done Bartolome</descripcion_eu>
+		<lugar_es>Lagrán</lugar_es>
+		<lugar_eu>Lagrán</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>30</codigo_eustat>
+		<latitud>42.626395</latitud>
+		<longitud>-2.58382</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>29/06/2017</fecha>
+		<descripcion_es>San Juan Bautista</descripcion_es>
+		<descripcion_eu>Done Joane</descripcion_eu>
+		<lugar_es>Laguardia</lugar_es>
+		<lugar_eu>Laguardia</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>31</codigo_eustat>
+		<latitud>42.554278</latitud>
+		<longitud>-2.584237</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>08/09/2017</fecha>
+		<descripcion_es>Virgen del Campo</descripcion_es>
+		<descripcion_eu>Amabirjina</descripcion_eu>
+		<lugar_es>Lanciego</lugar_es>
+		<lugar_eu>Lantziego</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>32</codigo_eustat>
+		<latitud>42.562619</latitud>
+		<longitud>-2.513204</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>18/09/2017</fecha>
+		<descripcion_es>Santos Cornelio y Cipriano</descripcion_es>
+		<descripcion_eu>Done Kornelio eta Done Zipri</descripcion_eu>
+		<lugar_es>Lantarón</lugar_es>
+		<lugar_eu>Lantarón</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>902</codigo_eustat>
+		<latitud>42.756673</latitud>
+		<longitud>-2.987556</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>24/08/2017</fecha>
+		<descripcion_es>San Bartolomé</descripcion_es>
+		<descripcion_eu>Done Bartolome</descripcion_eu>
+		<lugar_es>Lapuebla de Labarca</lugar_es>
+		<lugar_eu>Lapuebla de Labarca</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>33</codigo_eustat>
+		<latitud>42.493969</latitud>
+		<longitud>-2.573024</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>11/09/2017</fecha>
+		<descripcion_es>La Cofradias</descripcion_es>
+		<descripcion_eu>Kofradiak</descripcion_eu>
+		<lugar_es>Legutio</lugar_es>
+		<lugar_eu>Legutiano</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>58</codigo_eustat>
+		<latitud>42.977822</latitud>
+		<longitud>-2.642724</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>16/08/2017</fecha>
+		<descripcion_es>San Roque</descripcion_es>
+		<descripcion_eu>Done Roke</descripcion_eu>
+		<lugar_es>Leza</lugar_es>
+		<lugar_eu>Leza</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>34</codigo_eustat>
+		<latitud>42.566068</latitud>
+		<longitud>-2.633635</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>16/08/2017</fecha>
+		<descripcion_es>San Roque</descripcion_es>
+		<descripcion_eu>Done Roke</descripcion_eu>
+		<lugar_es>Llodio</lugar_es>
+		<lugar_eu>Laudio</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>36</codigo_eustat>
+		<latitud>43.143333</latitud>
+		<longitud>-2.962985</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>18/08/2017</fecha>
+		<descripcion_es>Acción de Gracias</descripcion_es>
+		<descripcion_eu>Esker Oneko eguna</descripcion_eu>
+		<lugar_es>Moreda de Alava</lugar_es>
+		<lugar_eu>Moreda de Alava</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>39</codigo_eustat>
+		<latitud>42.528016</latitud>
+		<longitud>-2.40767</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>02/06/2017</fecha>
+		<descripcion_es>San Juan de Ortega</descripcion_es>
+		<descripcion_eu>Done Joane Ortegakoa</descripcion_eu>
+		<lugar_es>Navaridas</lugar_es>
+		<lugar_eu>Nabaridas</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>41</codigo_eustat>
+		<latitud>42.545171</latitud>
+		<longitud>-2.624532</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>24/08/2017</fecha>
+		<descripcion_es>San Bartolomé</descripcion_es>
+		<descripcion_eu>Done Bartolome</descripcion_eu>
+		<lugar_es>Okondo</lugar_es>
+		<lugar_eu>Okondo</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>42</codigo_eustat>
+		<latitud>43.162222</latitud>
+		<longitud>-3.018889</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>23/01/2017</fecha>
+		<descripcion_es>San Vicente y San Anastasio</descripcion_es>
+		<descripcion_eu>Bikendi eta Anastasi Santuak</descripcion_eu>
+		<lugar_es>Oyón/Oion</lugar_es>
+		<lugar_eu>Oyón/Oion</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>43</codigo_eustat>
+		<latitud>42.506137</latitud>
+		<longitud>-2.436965</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>15/05/2017</fecha>
+		<descripcion_es>San Isidro Labrador</descripcion_es>
+		<descripcion_eu>Done Isidro Nekazaria</descripcion_eu>
+		<lugar_es>Peñacerrada</lugar_es>
+		<lugar_eu>Urizaharra</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>44</codigo_eustat>
+		<latitud>42.644095</latitud>
+		<longitud>-2.713374</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>15/05/2017</fecha>
+		<descripcion_es>San Isidro Labrador</descripcion_es>
+		<descripcion_eu>Done Isidro Nekazaria</descripcion_eu>
+		<lugar_es>Ribera Alta</lugar_es>
+		<lugar_eu>Erribera Goitia</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>46</codigo_eustat>
+		<latitud>42.807222</latitud>
+		<longitud>-2.9175</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>28/08/2017</fecha>
+		<descripcion_es>Fiesta local</descripcion_es>
+		<descripcion_eu>Tokiko jaieguna</descripcion_eu>
+		<lugar_es>Ribera Baja</lugar_es>
+		<lugar_eu>Erribera Beitia</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>47</codigo_eustat>
+		<latitud>42.719678</latitud>
+		<longitud>-2.907609</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>24/06/2017</fecha>
+		<descripcion_es>San Juan</descripcion_es>
+		<descripcion_eu>Done Joane</descripcion_eu>
+		<lugar_es>Salvatierra</lugar_es>
+		<lugar_eu>Agurain</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>51</codigo_eustat>
+		<latitud>42.852442</latitud>
+		<longitud>-2.389455</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>08/09/2017</fecha>
+		<descripcion_es>Virgen del Valle</descripcion_es>
+		<descripcion_eu>Haranako Andra Maria</descripcion_eu>
+		<lugar_es>Samaniego</lugar_es>
+		<lugar_eu>Samaniego</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>52</codigo_eustat>
+		<latitud>42.569832</latitud>
+		<longitud>-2.680185</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>13/11/2017</fecha>
+		<descripcion_es>San Millán</descripcion_es>
+		<descripcion_eu>Done Milian</descripcion_eu>
+		<lugar_es>San Millán</lugar_es>
+		<lugar_eu>Donemiliaga</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>53</codigo_eustat>
+		<latitud>42.874722</latitud>
+		<longitud>-2.376111</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>02/10/2017</fecha>
+		<descripcion_es>Nuestra Señora del Rosario</descripcion_es>
+		<descripcion_eu>Errosarioko Andra Maria</descripcion_eu>
+		<lugar_es>Urkabustaiz</lugar_es>
+		<lugar_eu>Urkabustaiz</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>54</codigo_eustat>
+		<latitud>42.971944</latitud>
+		<longitud>-2.922222</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>15/05/2017</fecha>
+		<descripcion_es>San Isidro</descripcion_es>
+		<descripcion_eu>Done Isidro</descripcion_eu>
+		<lugar_es>Valdegovía</lugar_es>
+		<lugar_eu>Valdegovía</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>55</codigo_eustat>
+		<latitud>42.85</latitud>
+		<longitud>-3.1</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>15/05/2017</fecha>
+		<descripcion_es>San Torcuato</descripcion_es>
+		<descripcion_eu>Done Torkuato</descripcion_eu>
+		<lugar_es>Villabuena de Álava</lugar_es>
+		<lugar_eu>Eskuernaga</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>57</codigo_eustat>
+		<latitud>42.548717</latitud>
+		<longitud>-2.665456</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>05/08/2017</fecha>
+		<descripcion_es>Virgen Blanca</descripcion_es>
+		<descripcion_eu>Andra Mari Zuria</descripcion_eu>
+		<lugar_es>Vitoria-Gasteiz</lugar_es>
+		<lugar_eu>Vitoria-Gasteiz</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>59</codigo_eustat>
+		<latitud>42.846406</latitud>
+		<longitud>-2.667893</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>18/08/2017</fecha>
+		<descripcion_es>Nuestra Señora de Bercijana</descripcion_es>
+		<descripcion_eu>Berzijanako Andra Maria</descripcion_eu>
+		<lugar_es>Yécora</lugar_es>
+		<lugar_eu>Ikeora</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>60</codigo_eustat>
+		<latitud>42.569303</latitud>
+		<longitud>-2.470064</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>10/06/2017</fecha>
+		<descripcion_es>San Kisimos</descripcion_es>
+		<descripcion_eu>Hargatiko Eguna</descripcion_eu>
+		<lugar_es>Zalduondo</lugar_es>
+		<lugar_eu>Zalduondo</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>61</codigo_eustat>
+		<latitud>42.885626</latitud>
+		<longitud>-2.347254</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>05/08/2017</fecha>
+		<descripcion_es>Santa Lucia</descripcion_es>
+		<descripcion_eu>Santa Luzia</descripcion_eu>
+		<lugar_es>Zambrana</lugar_es>
+		<lugar_eu>Zambrana</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>62</codigo_eustat>
+		<latitud>42.659981</latitud>
+		<longitud>-2.879353</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>04/08/2017</fecha>
+		<descripcion_es>Eguzki Jaia</descripcion_es>
+		<descripcion_eu>Eguzki Jaia</descripcion_eu>
+		<lugar_es>Zigoitia</lugar_es>
+		<lugar_eu>Zigoitia</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>18</codigo_eustat>
+		<latitud>42.9682</latitud>
+		<longitud>-2.7183</longitud>
+	</fecha_calendario>
+	<fecha_calendario>
+		<fecha>29/09/2017</fecha>
+		<descripcion_es>San Miguel</descripcion_es>
+		<descripcion_eu>Done Mikel</descripcion_eu>
+		<lugar_es>Zuia</lugar_es>
+		<lugar_eu>Zuia</lugar_eu>
+		<territorio>Álava - Araba</territorio>
+		<codigo_eustat>63</codigo_eustat>
+		<latitud>42.981667</latitud>
+		<longitud>-2.844</longitud>
+	</fecha_calendario>
+</calendario_laboral>
